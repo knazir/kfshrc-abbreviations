@@ -116,7 +116,6 @@ class TabBar extends Component {
   }
 
   createNavLinks() {
-    console.log(views);
     const className = `nav nav-tabs ${this.props.state.loggedIn ? "logged-in" : ""}`.trim();
     return (
       <ul className={className}>
