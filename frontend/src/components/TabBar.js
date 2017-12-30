@@ -119,8 +119,7 @@ class TabBar extends Component {
     const className = `nav nav-tabs ${this.props.state.loggedIn ? "logged-in" : ""}`.trim();
     return (
       <ul className={className}>
-        {this.createNavItem("Abbreviations", views.abbreviations)}
-        {this.createNavItem("Full List", views.list)}
+        {this.createNavItem("Abbreviations", views.list)}
         {this.props.state.loggedIn && this.createNavItem("History", views.history)}
         {this.createNavItem("About", views.about)}
       </ul>

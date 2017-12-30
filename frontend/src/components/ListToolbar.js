@@ -3,15 +3,45 @@ import { gs } from "../util/react-global-state";
 
 class ListToolbar extends Component {
 
+  state = {
+    inputText: "",
+    searchColumn: "abbreviation"
+  };
+
+  setSearchColumn(event) {
+    this.setState({ searchColumn: event.target.value });
+  }
+  
+  createSearchDropdown() {
+    return (
+      <div>
+        <select className="search-dropdown" defaultValue="abbreviation" onChange={this.setSearchColumn.bind(this)}>
+          <option value="abbreviation">Abbreviation</option>
+          <option value="description">Description</option>
+        </select>
+      </div>
+    );
+  }
+
+  search(event) {
+    event.preventDefault();
+    const { searchColumn, inputText } = this.state;
+    this.props.filterResults(searchColumn, inputText);
+  }
+
   createSearchInput() {
     return (
       <div className="search-input input-group">
-        <input type="text" className="form-control" placeholder="Search..."/>
-        <span className="input-group-btn">
-            <button className="btn btn-success" type="button">
-              <span className="fa fa-search"/>
-            </button>
+        <form className="form-inline">
+          {this.createSearchDropdown()}
+          <input type="text" className="form-control" placeholder="Search..." value={this.state.inputText}
+                 onChange={event => this.setState({ inputText: event.target.value })}/>
+          <span className="input-group-btn">
+              <button className="btn btn-success" type="submit" onClick={this.search.bind(this)}>
+                <span className="fa fa-search"/>
+              </button>
           </span>
+        </form>
       </div>
     );
   }

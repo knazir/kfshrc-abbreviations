@@ -90,7 +90,14 @@ header img.logo {
 /* Abbreviation List*/
 
 .abbreviation-list {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
 
+.unapproved-msg {
+    margin: 0;
+    text-align: center;
 }
 
 /* ListToolbar */
@@ -104,6 +111,18 @@ header img.logo {
 
 .search-input {
     width: 50%;
+}
+
+.search-input > form {
+    display: flex;
+    flex: 1;
+}
+
+.search-dropdown {
+    display: flex;
+    padding: 2px;
+    height: 38px;
+    border-radius: 0.25rem;
 }
 
 /* Login */
