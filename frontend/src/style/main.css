@@ -1,0 +1,160 @@
+/* Global */
+
+body {
+    font-family: "Open Sans", "sans-serif";
+}
+
+.button-icon {
+    margin-right: 2px;
+}
+
+.button-group, .flex-group {
+    display: flex;
+}
+
+.button-group > *, .flex-group > * {
+    margin-right: 5px;
+}
+
+.button-group > *:last-child, .flex-group > *:last-child {
+    margin-right: 0;
+}
+
+/* Header */
+
+header {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-top: solid 5px #384045;
+    border-bottom: solid 5px #cccccc;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header img.logo {
+    margin-right: 8px;
+}
+
+.logo {
+    width: 70px;
+    height: 64px;
+}
+
+/* Tab Bar */
+
+.tab-bar {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.tab-bar .nav-tabs {
+    flex: 0.9;
+}
+
+.tab-bar .login-components {
+    flex: 0.1;
+    margin-right: 5px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.tab-bar .nav-tabs.logged-in {
+    flex: 0.60;
+}
+
+.tab-bar .login-components.logged-in {
+    flex: 0.40;
+}
+
+.tab-bar .logged-in-info {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+}
+
+.tab-bar .logged-in-info .logged-in-msg {
+    margin-right: 15px;
+}
+
+.tab-component {
+    margin: 10px 5px;
+}
+
+/* Abbreviation List*/
+
+.abbreviation-list {
+
+}
+
+/* ListToolbar */
+
+.toolbar {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.search-input {
+    width: 50%;
+}
+
+/* Login */
+
+div.ui-dialog {
+    padding: 0;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form > .input-group {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.login-form .error {
+    font-weight: bold;
+    color: red;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+.login-form-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -1px;
+    margin-bottom: 0;
+    padding: 10px;
+    height: 38px;
+    width: 38px;
+    border: solid 1px lightgray;
+    border-radius: 0.25rem;
+}
+
+.login-form-submit {
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+/* Not found */
+
+.not-found {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
