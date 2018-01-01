@@ -69,6 +69,16 @@ header img.logo {
     flex: 0.60;
 }
 
+.nav-link.forbidden, .nav-link.forbidden.active {
+    color: red;
+    font-weight: bold;
+}
+
+.nav-link.approved, .nav-link.approved.active {
+    color: green;
+    font-weight: bold;
+}
+
 .tab-bar .login-components.logged-in {
     flex: 0.40;
 }
@@ -93,6 +103,11 @@ header img.logo {
     display: flex;
     flex-direction: column;
     flex: 1;
+}
+
+.abbreviation-list .alert {
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 .unapproved-msg {

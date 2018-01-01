@@ -1,1974 +1,1878 @@
-abbreviation,description
-A/G; A-G ratio,albumin/globulin ratio
-A2,aortic second sound
-AAA,abdominal aortic aneurysm
-AACG,Acute Angle closure glaucoma
-Ab,Antibody
-abd,abdominal/abdomen
-ABG,arterial blood gas
-ABI,ankle-brachial index
-ABMT,Autologous bone marrow transplantation
-Abn,Abnormal
-ABO,Landsteiner's blood grouping system
-ABVD,"""Doxorubicin (Adriamyc in), bleomycin, vinblastine, dacarbazine (first-line treatment for Hodgkin's lymphoma)"""
-ABX,Antibiotics
-ACD ,Allergic contact dermatitis
-ACE,angiotensin-converting enzyme
-ACG,Angle closure glaucoma
-ACh,acetylcholine
-ACL,Anterior cruciate ligament
-ACLS,advanced cardiac life support
-ACTH,adrenocorticotropic hormone
-AD,Autosomal dominant
-ADA,Adenosine deaminase
-ADD,Attention deficit disorder
-ADH,antidiuretic hormone
-ADHD,attention deficit-hyperactivity disorder
-ADHR,Autosomal-dominant hypophosphatemic rickets
-ADP,Adenosine diphosphate
-ADR,Adverse drug reaction
-AED,Automatic External Defibrillator
-AFP,alpha-fetoprotein
-AGN,Appropriate gestational age (see birth w eight)
-AgNO3,silver nitrate
-aGVHD,Acute Graft vs Host Disease
-AIDS,acquired immunodeficiency syndrome
-AIMS,Abnormal  Involuntary  Movement Scale
-AIP,Acute Intermittent Porphyria
-AK ,Actinic Keratosis 
-AKA,above-knee amputation
-AKC,Atopic keratoconjunctivitis
-Al,aluminum
-Alb,albumin
-ALC,Absolute Lymphocyte Count
-ALD,Adrenoleukodystrophy
-ALG,Antilymphocytic globulin
-ALI,Acute Lung Injury
-ALL,Acute Lymphocytic Leukemia
-ALOC,altered level of consciousness
-ALOS,average length of stay
-ALP,alkaline phosphatase
-ALS,amyotrophic lateral sclerosis
-ALT,Alanine aminotransfrerase
-AML,acute myelogenous (myeloblastic) leukemia
-AMLS,Advanced Medical Life Support
-amp,ampule
-ANA,antinuclear antibody
-ANC,Absolute Neutrophil Count
-ANCA,Anti-neutrophil cytoplasmic antibody
-ANLL,acute non-lymphocytic leukemia
-ANNA,anti-neuronal nuclear antibody
-ANP,atrial natriuretic peptide
-ant ,anterior
-Ante cerebral,antegrate cerebral perfusion
-anti HbsAg,antibody to hepatitis b surface antigen
-anti-CCP,anticyclic citrullinated peptide
-ANUG,Acute Necrotizing Ulcerative Gingivitis
-Ao,aortic/aorta
-AODM,Adult-onset diabetes mellitus (type 2 diabetes mellitus)
-AP,anterior posterior
-APC,Absolute Phagocyte Count
-APGAR,"Appearance, pulse, grimace, activity, respiration - used to assess newborns"
-APICO,"Apicoectomy, Apical Root Canal Surgery"
-APL,Acute promyelocytic Leukemia
-APKD,Adult polycystic kidney disease
-APLS,Antiphospholipid syndrome
-APRV,airway pressure release ventilation
-aPTT,activated partial thromboplastin
-APVD,atherosclerotic peripheral vascular disease
-AR,aortic regurgitation
-ARB,angiotensin II receptor blocker
-ARC,AIDS-related complex
-ARDS,acute respiratory distress syndrome
-ARF,Acute Renal Failure
-ARMD,age-related macular degeneration
-AROM,active range of motion
-art,arterial
-AS,Aortic Stenosis
-ASA,Acetylsalicylic Acid (Asprin)
-ASAP,As Soon As Possible
-ASCA,anti-Saccharomyces cerevisiae antibody
-ASCVD,arteriosclerotic cardiovascular disease
-ASD,Atrial Septal Defect
-ASHD,arteriosclerotic heart disease
-AST,aspartate aminotransferase
-ATG,Antithymocyte Globulin
-AT-III,Antithrombin 3
-ATLL,adult T-cell leukemia lymphoma
-ATN,Acute Tubular Necrosis
-ATP,adenosine triphosphate
-ATRA,All-trans retinoic acid,Not for use in writing medication orders
-Au,gold
-AUC,Area under the c urve (pharmacology)
-AUS , Artificial Urinary Sphincter
-AV,Arteriovenous or Aortic Valve
-ave,average
-AVF,Arterio-venous Fistula
-AVP,arginine vasopressin
-AVR,Aortic Valve Replacement
-AVRep,Aortic Valve Repair
-AW,Arch Wire
-AWRR,airway respiratory rate
-Ax,axillary
-B,Buccal
-B1,Thiamine
-B12,Cyanocabalamin
-B2,Riboflavin
-B6,Pyridoxine
-Ba,barium
-BAD,Bipolar Affective Disorder,Not for use in writing medication orders
-BAL,bronchoalveolar lavage 
-BAT,blunt abdominal trauma
-BBB,Bundle Branch Block: Blood Brain Barrier
-BBGD,Biotin responsive Basal Ganglia disease
-BCC,Basal Cell Carcinoma
-BCCP,Bilateral Cleft Lip Palate
-BCG,Baccili Calmette-Guerin Injection (TB Vaccine)
-BCLS,basic cardiac life support
-BCO,bolus cardiac output
-BCx,Blood culture
-BDI,Back Depression Inventory
-BE,barium enema
-BEE,basal energy expenditure,Surface-Dental only
-BES,Binge Eating Scale
-BHS,beta-hemolytic streptococci
-Bi,bismuth
-BID,Bis In Di (Twice A Day)
-bilat,bilateral
-BiPAP,Bi-level positive airway pressure
-BIS,Bispectral index
-BiVAD,Bilateral ventricular assist device (left and right)
-BK,below the knee
-BKA,Below Knee Amputation
-bld,blood
-BLS,basic life support
-BM,Bone Marrow
-BMA,Bone Marrow Aspirate
-BMBx,Bone Marrow Biopsy
-BMI,Body Mass Index
-BMP,basic metabolic panel
-BMR,basal metabolic rate
-BMT,Bone Marrow Transplant
-BNI,Bladder neck incision
-BNI ,Bladder neck incision
-BNP,brain natriuretic peptide
-BOA,behavioral observation audiometry
-BOM,bilateral otitis media
-BOO,Bladder outflow obstruction
-BOOP,Bronchiolitis obliterans organizing pneumonia
-BOP,Bleeding on probing
-BP,Blood Pressure/Bullous Pemphigoid
-BPD,Bronc hopulmonary dysplasia
-BPE,Benign prostatic enlargement
-BPE , Benign prostatic enlargement
-BPH,benign prostatic hyperplasia
-bpm,beats per minute | breaths per minute
-BPRS,Brief Psychiatric Rating Scale
-BRAT,"The BRAT diet: bananas, ric e, applesauc e, (dry) toast (helps digestion in some GI disorders)"
-BRB,bright red blood
-BRCA1,(gene) BRCA1 (protein)
-BRCA2,(gene) BRCA2 (protein)
-BRM,biologic response modifier
-bronch,bronchoscopy
-BRVO,Branch Retinal Vein occlussion
-bs,BS bowel sounds 
-BSA,body surface area
-BSO,bilateral salpingooophorectomy
-BSS,balanced salt solution
-BSSO,Bilateral Sagittal Split Osteotomy
-BTS (BT-Shunt),Blalock-Taussig Shunt
-BU,Build Up
-BUN,blood urea nitrogen
-BWt.,Birth Weight
-BWs,Bitewings,Dental
-Bx,Biopsy
-C,Celsius (Centigrade)
-C & B,Crown & Bridge,Dental
-C & S,Culture And Sensitivities
-c AMP,Cyclic adenosine monophosphate
-C- section,Cesarean section
-C spine,cervical spine
-C(a-v)O2,arterial to mixed venous oxygen content difference
-C/O,Complaint Of
-c/w,consistent with
-C1,Atlas - first c ervic al vertebra of the spine
-C2,Axis - sec ond c ervic al vertebra of the spine
-Ca,cancer
-Ca CO3,Calcium Carbonate
-Ca(OH)2 ,Calcium Hydroxide
-Ca++,calcium
-CABG,Coronary Artery Bypass Graft
-CACG,Chronic Angle closure glaucoma
-CaCl2,Calcium Chloride
-CAD,Coronary Artery Disease
-CAH,chronic active hepatitis; Congenital adrenal hyperplasia
-CAI,carbonic anhydrase inhibitor
-Cal,large calorie
-calc,calculation
-CaO2,arterial oxygen content
-cap,capillary
-CAPD,continuous ambulatory peritoneal dialysis
-CaPO4,Calcium Phosphate
-CT,computerized axial tomography
-cat,cataract 
-Cat ć IL,cataract with intraocular lens,ophthalmology
-cath,catheter
-Cath Lab,Catheterization Laboratory
-CAVD , Congenital absence of vas deference
-CAX,central axis
-CBAVD , Congenital bilateral absence of vas deference
-CBC,Complete Blood Count
-CBCD,Complete Blood Count and Differential
-CBD,Common Bile Duct
-CBG,Capillary Blood Gas
-CBI,continuous bladder irrigation
-CBLC,cutaneous B-cell lymphoma
-CBRNE,"chemical, biological, radiological, nuclear, and explosive agents"
-CBT,cognitive behavioral therapy
-cc,Cubic Centimeter
-CCA,Common Carotid Artery
-Ccath,Cardiac Catheterization
-CCl 4,carbon tetrachloride
-CCO,continuous cardiac output
-CCPD,continuous cycling peritoneal dialysis
-CCU,Cardiac Care Unit
-CD4,T-helper cells
-CD8,cytotoxic cells
-CDC,Centers for Disease Control 
-CDG,Congenital disorder of glycosylation
-CDT,Carbohydrate deficient Transferrin
-CEA,carcinoembryonic antigen
-CEJ,Cementoenamel Junction
-ceph,cephalic
-CF,Cystic Fibrosis
-CFTR,cystic fibrosis transmembrane regulator
-cg,centigram
-cGy | cgy,centi-gray
-CHARGE,"Coloboma, heart defect, atresia choanae, retarded growth and development, genital abnormality, and ear abnormality"
-CHD,Congenital Heart Disease
-chemo,chemotherapy
-CHF,Congestive Heart Failure
-CHO,carbohydrate
-Chol,Cholesterol
-CI,cardiac index
-CID,cervical immobilization device
-CIDP,Chronic inflammatory demyelinating polyneuropathy
-CIN,cervical intraepithelial neoplasia
-circ,circulation
-CIS,Carcinoma in situ
-CISC ,Clean intermittent self-catheterization
-CK,creatine kinase
-CKMB,Creatinine Kinase Mb Fraction
-Cl,Chloride
-CLAMP,aortic cross clamp
-Clin Lab,clinical laboratory
-CLL,Chronic lymphocytic leukemia
-CLP,Cleft Lip and Palate
-CLRT,continuous lateral rotation therapy
-cm,Centimeter
-CME,Cystoid macular edema
-CMI,co-morbidity index
-CML,chronic myelogenous leukemia
-CMML,Chronic myelomonocytic leukemia
-CMP,comprehensive metabolic panel
-CMV,cytomegalovirus
-CN (1-12),Cranial Nerve
-CNS,Central Nervous System
-CO,Cardiac Output
-CO2,Carbon Dioxide
-COA,Coartation Of The Aorta
-coags,coagulation
-COAG,chronic open angle glaucoma
-COLD,chronic obstructive lung disease
-comp.,compound
-conj,conjunctiva
-cont.,continue
-COPD,Chronic Obstructive Pulmonary Disease
-COW,computer on wheels
-COX-1,Cyclooxygenase 1
-COX-2,Cyclooxygenase 2
-COX-3,Cyclooxygenase 3
-CP,cerebral palsy
-CPA,cerebellopontine angle
-CPAP,Continuous Positive Applied Pressure
-CPB,cardiopulmonary bypass
-CPC,Clinicopathologic conference
-CPD,cephalopelvic disproportion
-CPHSS,Cincinnati Prehospital Stroke Scale
-CPK,creatine phosphokinase
-CPM,Continuous passive movement
-CPOE,computerized physician order entry
-CPP,Cerebral Perfusion Pressure
-CPPS , Chronic Pelvis pain syndrome
-CPR,Cardiopulmonary Resuscitation
-CPRS,Comprehensive Psychopathological Rating Scale
-CPSD,Carbamyl phophate synthetase deficiency
-CPT,Chest Physio-Therapy
-Cr/creat.,Creatinine
-CRAO,centeral retinal artery occlussion
-CRC,Clinical Research Committee
-CREST,"calcinosis, Raynaud phenomenon, esophageal dysfunction, sclerodactyly, telangiectasia"
-CRF,Chronic Renal Failure
-CRP,c-reactive protein
-CRPC ,Castration-Resistant Prostate Cancer
-CRRT,Continous Renal Replacement Therapy
-CRS-R,Conners Rating Scales–Revised
-CRVO,Centeral Retinal Vein occlussion
-cryo,cryoprecipitate
-CS,Coronary Sinus
-CSA,Cyclosporin-A
-CSCR,central serous chorioretinopathy
-CSF,cerebrospinal fluid; colony-stimulating factor
-CSLA,coronary sinus left atrium
-CSME,Clinically significant macular edema
-CSR,central serous retinopathy
-CST,contraction stress test
-CSU,Chronic Spontaneous Urticaria
-CSVLCV,cutaneous small vessel leukocytoclastic vasculitis
-CT,computerized tomography/chest tube
-CTA,clear to auscultation
-CTCL,cutaneous T-cell lymphoma
-CTD,connective tissue disease
-CTV,clinical tumor volume
+abbreviation,description,comments
+TCID50,1/50 Of The Tissue Culture Immunizing Dose,
+HMG CoA lyase,3Hydroxy 3methyl Glutaric CoenzymeA lyase,
+HMGCoA reductase inhibitors,3-hydroxy-3-methyl-glutaryl-CoA,
+HMGR,3-hydroxy-3-methyl-glutaryl-CoA reductase,
+PIPDA (scan),99mTc-para-isopropylacetanilido-iminodiaacetic acid (cholescintigraphy),
+ASA,Acetylsalicylic Acid (Asprin),Not to be used in writing medication orders
+ACT-D,Actinomycin D,Not to be used in writing medication orders
+AROM,active range of motion,
+ARF,Acute Renal Failure,
+ARDS,acute respiratory distress syndrome,
+ATN,Acute Tubular Necrosis,
+ATP,adenosine triphosphate,
+ACTH,"Adrenocorticotropic Hormone, Corticotropin",
+ATLL,adult T-cell leukemia lymphoma,
+Post,after,
+pm,afternoon/evening,
+ARMD,age-related macular degeneration,
+ARC,AIDS-related complex,
+Raw,Airway Resistance,
+AWRR,airway respiratory rate,
+ATRA,All-trans retinoic acid,Not to be used in writing medication orders
+Ampho-B,Amphotericin B,Not to be used in writing medication orders
+ARB,angiotensin II receptor blocker,
+Factor VIII,Antihemophilic Factor VIII (Recombinant) Xyntha®,Not to be used in writing medication orders
+Jo-1,Anti-Histidyl-Transfer Rna Synthetase,
+ASCA,anti-Saccharomyces cerevisiae antibody,
+AT-III,Antithrombin 3,
+ATG,Antithymocyte Globulin,
+tTG,antitransglutaminase,
+CLAMP,aortic cross clamp,
+AR,aortic regurgitation,
+AS,Aortic Stenosis,
+AVRep,Aortic Valve Repair,
+AVR,Aortic Valve Replacement,
+AW,Arch Wire,
+AUC,Area under the c urve (pharmacology),
+AVP,arginine vasopressin,
+art,arterial,
+CaO2,arterial oxygen content,
+SaO2/SO2,Arterial Oxygen Saturation,
+C(a-v)O2,arterial to mixed venous oxygen content difference,
+ASCVD,arteriosclerotic cardiovascular disease,
+ASHD,arteriosclerotic heart disease,
+AVF,Arterio-venous Fistula,
+AV,Arteriovenous or Aortic Valve,
+AUS,Artificial Urinary Sphincter,
+prn,as needed,
+MAG3,As per DTPA scan,
+ASAP,As Soon As Possible,
+Vit C,Ascorbic acid,
+AST,aspartate aminotransferase,
+C1,Atlas - first c ervic al vertebra of the spine,
+ASD,Atrial Septal Defect,
+ave,average,
+Ax,axillary,
+C2,Axis - sec ond c ervic al vertebra of the spine,
+BCG,Baccili Calmette-Guerin Injection (TB Vaccine),
+BDI,Back Depression Inventory,
+BSS,balanced salt solution,Not to be used in writing medication orders
+Ba,barium,Not to be used in writing medication orders
+BE,barium enema,
+BCC,Basal Cell Carcinoma,
+BEE,basal energy expenditure,
+BMR,basal metabolic rate,
+BOT,base of tongue,
+BCLS,basic cardiac life support,
+BLS,basic life support,
+BMP,basic metabolic panel,
+bpm,beats per minute ,
+hs,bedtime,Not to be used in writing medication orders
+BOA,behavioral observation audiometry,
+BTE,Behind the ear,
+BKA,Below Knee Amputation,
+BK,below the knee,
+BPE,Benign prostatic enlargement,
+BPH,benign prostatic hyperplasia,
+BHS,beta-hemolytic streptococci,
+bilat,bilateral,
+BCCP,Bilateral Cleft Lip Palate,
+BOM,bilateral otitis media,
+BSSO,Bilateral Sagittal Split Osteotomy,
+BSO,bilateral salpingooophorectomy,
+BiVAD,Bilateral ventricular assist device (left and right),
+BiPAP,Bi-level positive airway pressure,
+BES,Binge Eating Scale,
+BRM,biologic response modifier,
+Bx,Biopsy,
+BBGD,Biotin responsive Basal Ganglia disease,
+BAD,Bipolar Affective Disorder,
+BWt.,Birth Weight,
+BID,Bis In Di (Twice A Day),
+Bi,bismuth,Not to be used in writing medication orders
+BIS,Bispectral index,
+BWs,Bitewings,
+BNI,Bladder neck incision,
+BOO,Bladder outflow obstruction,
+BTS (BT-Shunt),Blalock-Taussig Shunt,
+BOP,Bleeding on probing,
+bld,blood,
+BCx,Blood culture,
+BP,Blood Pressure,
+BUN,blood urea nitrogen,
+BAT,blunt abdominal trauma,
+BMI,Body Mass Index,
+BSA,body surface area,
+BCO,bolus cardiac output,
+BM,Bone Marrow,
+BMA,Bone Marrow Aspirate,
+BMBx,Bone Marrow Biopsy,
+BMT,Bone Marrow Transplant,
+ou,"Both eyes, from Latin, oculi uterque",
+BNP,brain natriuretic peptide,
+BRVO,Branch Retinal Vein occlussion,
+BRCA1,BRCA1 (Gene),
+BRCA2,BRCA2 (Gene),
+BPRS,Brief Psychiatric Rating Scale,
+BRB,bright red blood,
+BPD,Bronc hopulmonary dysplasia,
+BOOP,Bronchiolitis obliterans organizing pneumonia,
+BAL,bronchoalveolar lavage,
+bronch,bronchoscopy,
+bs,BS bowel sounds,
+B,Buccal,
+BU,Build Up,
+BBB,Bundle Branch Block: Blood Brain Barrier,
+PO,by mouth,
+CREST,"calcinosis, Raynaud phenomenon, esophageal dysfunction, sclerodactyly, telangiectasia",
+Ca++,calcium,Not to be used in writing medication orders
+Ca CO3,Calcium Carbonate,Not to be used in writing medication orders
+CaCl2,Calcium Chloride,Not to be used in writing medication orders
+Ca(OH)2,Calcium Hydroxide,Not to be used in writing medication orders
+CaPO4,Calcium Phosphate,Not to be used in writing medication orders
+calc,calculation,
+Ca,cancer,
+cap,capillary,
+CBG,Capillary Blood Gas,
+CPSD,Carbamyl phophate synthetase deficiency,
+CHO,carbohydrate,
+CDT,Carbohydrate deficient Transferrin,
+CO2,Carbon Dioxide,
+CCl 4,carbon tetrachloride,
+CAI,carbonic anhydrase inhibitor,
+CEA,carcinoembryonic antigen,
+CIS,Carcinoma in situ,
+CCU,Cardiac Care Unit,
+Ccath,Cardiac Catheterization,
+CI,cardiac index,
+CO,Cardiac Output,
+CPB,cardiopulmonary bypass,
+CPR,Cardiopulmonary Resuscitation,
+CV,Cardiovascular,
+BCNU,Carmustine,Not to be used in writing medication orders
+CRPC,Castration-Resistant Prostate Cancer,
+cat,cataract,
+Cat ć IL,cataract with intraocular lens,
+cath,catheter,
+Cath Lab,Catheterization Laboratory,
+C,Celsius (Centigrade),
+CEJ,Cementoenamel Junction,
+CRAO,centeral retinal artery occlussion,
+CRVO,Centeral Retinal Vein occlussion,
+CDC,Centers for Disease Control,
+cg,centigram,
+cGy | cgy,centi-gray,
+cm,Centimeter,
+CAX,central axis,
+CNS,Central Nervous System,
+CSCR,central serous chorioretinopathy,
+CSR,central serous retinopathy,
+CVAD,Central Venous Access Device,
+CVC,Central Venous Catheter,
+CVP,Central Venous Pressure,
+ceph,cephalic,
+CPD,cephalopelvic disproportion,
+CPA,cerebellopontine angle,
+CP,cerebral palsy,
+CPP,Cerebral Perfusion Pressure,
+CSF,cerebrospinal fluid; colony-stimulating factor,
+CVA,Cerebrovascular Accident,
+CID,cervical immobilization device,
+CIN,cervical intraepithelial neoplasia,
+C spine,cervical spine,
+C- section,Cesarean section,
+Therac-20,Cgr Therac-20 Linear Accelerator,
+CBRNE,"chemical, biological, radiological, nuclear, and explosive agents",
+chemo,chemotherapy,
+CPT,Chest Physio-Therapy,
+CXR,Chest X-Ray,
+Cl,Chloride,
+Vit D3,Cholecalciferol,
+Chol,Cholesterol,
+CVS,chorionic villi sampling,
+CAH,chronic active hepatitis; Congenital adrenal hyperplasia,
+CACG,Chronic Angle closure glaucoma,
+CIDP,Chronic inflammatory demyelinating polyneuropathy,
+CLL,Chronic lymphocytic leukemia,
+CML,chronic myelogenous leukemia,
+CMML,Chronic myelomonocytic leukemia,
+COLD,chronic obstructive lung disease,
+COPD,Chronic Obstructive Pulmonary Disease,
+COAG,chronic open angle glaucoma,
+CPPS,Chronic Pelvis pain syndrome,
+CRF,Chronic Renal Failure,
+CSU,Chronic Spontaneous Urticaria,
+CPHSS,Cincinnati Prehospital Stroke Scale,
+circ,circulation,
+CISC,Clean intermittent self-catheterization,
+CTA,clear to auscultation,
+CLP,Cleft Lip and Palate,
+Clin Lab,clinical laboratory,
+CRC,Clinical Research Committee,
+CTV,clinical tumor volume,
+CSME,Clinically significant macular edema,
+CPC,Clinicopathologic conference,
+coags,coagulation,
+COA,Coartation Of The Aorta,
+CBT,cognitive behavioral therapy,
+CHARGE,"Coloboma, heart defect, atresia choanae, retarded growth and development, genital abnormality, and ear abnormality",
+CBD,Common Bile Duct,
+CCA,Common Carotid Artery,
+CMI,co-morbidity index,
+C/O,Complaint Of,
+CBC,Complete Blood Count,
+CBCD,Complete Blood Count and Differential,
+comp.,compound,
+CMP,comprehensive metabolic panel,
+CPRS,Comprehensive Psychopathological Rating Scale,
+COW,computer on wheels,
+CPOE,computerized physician order entry,
+CT,computerized tomography,
+CAVD,Congenital absence of vas deference,
+CBAVD,Congenital bilateral absence of vas deference,
+CDG,Congenital disorder of glycosylation,
+CHD,Congenital Heart Disease,
+CHF,Congestive Heart Failure,
+conj,conjunctiva,
+CTD,connective tissue disease,
+CRS-R,Conners Rating Scales–Revised,
+c/w,consistent with,
+CRRT,Continous Renal Replacement Therapy,
+cont.,continue,
+CAPD,continuous ambulatory peritoneal dialysis,
+CBI,continuous bladder irrigation,
+CCO,continuous cardiac output,
+CCPD,continuous cycling peritoneal dialysis,
+CLRT,continuous lateral rotation therapy,
+CPM,Continuous passive movement,
+CPAP,Continuous Positive Applied Pressure,
+CVVHDF,Continuous Veno-Venous Hemodiafiltration,
+CVVHD,Continuous Veno-Venous Hemodialysis,
+CVVH,Continuous Veno-Venous Hemofiltration,
+CST,contraction stress test,
+Cu,copper,Not to be used in writing medication orders
+CABG,Coronary Artery Bypass Graft,
+CAD,Coronary Artery Disease,
+CS,Coronary Sinus,
+CSLA,coronary sinus left atrium,
+CWS,cotton wool spot,
+CN (1-12),Cranial Nerve,
+CRP,c-reactive protein,
+CK,creatine kinase,
+CPK,creatine phosphokinase,
+Cr,Creatinine,
+CKMB,Creatinine Kinase Mb Fraction,
+CVRB,critical value read back,
+X-bite,Cross Bite,
+C & B,Crown & Bridge,
+cryo,cryoprecipitate,
+cc,Cubic Centimeter,
+C & S,Culture And Sensitivities,
+CBLC,cutaneous B-cell lymphoma,
+CSVLCV,cutaneous small vessel leukocytoclastic vasculitis,
+CTCL,cutaneous T-cell lymphoma,
+c AMP,Cyclic adenosine monophosphate,
+COX-1,Cyclooxygenase 1,
+COX-2,Cyclooxygenase 2,
+COX-3,Cyclooxygenase 3,
 CTX,cyclophosphamide,Not to be used in writing medication orders
-Cu,copper
-CV,Cardiovascular
-CVA,Cerebrovascular Accident
-CVAD,Central Venous Access Device
-CVC,Central Venous Catheter
-CVO2,mixed venous oxygen content
-CVP,Central Venous Pressure
-CVRB,critical value read back
-CVS,chorionic villi sampling
-CVVH,Continuous Veno-Venous Hemofiltration
-CVVHD,Continuous Veno-Venous Hemodialysis
-CVVHDF,Continuous Veno-Venous Hemodiafiltration
-CWS,cotton wool spot
-CXR,Chest X-Ray
-cysto,cystoscopy
-D3,Ergocalciferol
-D,Distal,Dental-surface
-D&C,Dilatation And Curettage
-D&E,Dilatation and evacuation
-D.O.,Doctor of Osteopathic Medicine
-D/C,Discontinue; Discharge
-D/W,Discussed with
-D10W,Dextrose 10% In Water
-"D20W, D30W","Dextrose 20, 30% in Water"
-D5/NS,Dextrose 5%-Normal Saline
-D5-1/2NS,Dextrose 5%-Half Normal Saline
-D5-1/4NS,Dextrose 5%-Quarter Normal Saline
-D5-LR,Dextrose 5%-Lactated Ringer'S
-D5W,Dextrose 5%-Water
-DAI,diffuse axonal injury
-dB,decibel
-DC,discharge
-DCIS,Ductal carcinoma in situ
-DCR,Dacryocystorhinostomy
-DDAVP,Desmopressin
-DDx,Differential diagnosis
-defib,defibrillate
-DEM,Department of Emergency Medicine
-Derm,dermatology
-DES,Diethylstilbestrol
-DEXA,Dual Energy X-ray Absorptiometry
-DFDBA,Demineralized Freeze-Dried Bone Allograft
-DFV,Doppler flow velocimetry
-DH , Dermatitis Herpetiformis
-DHE,Dihydroergotamine
-DHEA,Dehydro-Epiandrosterone
-DHEAS,Dehydro-Epiandrosterone Sulphate
-DHF,Dec ompensated heart failure
-DHL,diffuse histiocytic lymphoma
-DHT,dihydrotestosterone
-DI,Diabetes Insipidus
-DIC,Disseminated Intravascular Coagulopathy
-DIDMOHS,drug-induced delayed multiorgan hypersensitivity syndrome
-DIF,direct immunofluorescence
-diff,Differential
-Dil,dilate
-DIP,Distal Interphalangeal Joint
-DISIDA (scan),diisopropyl iminodiacetic acid (cholescintigraphy)
-DJD,Degenerative Joint Disease
-DKA,Diabetic Ketoacidosis
-dL,deciliter
-DLC,diffuse large cell
-DLCO,diffusion capacity
-DLE , Discoid Lupus
-DM,diabetes mellitus
-DMARD,disease-modulating antirheumatic drug
-DMD,"""Duchenne muscular dystrophy; Dentariae Medicinae Doctor, that is, Doctor of Dental Medicine"""
-DNA,Deoxyribonucleic acid
-DNA-Ab,Deoxyribonucleic Acid Antibody
-DNAR,Do not attempt resuscitation
-DNR,Do Not Resuscitate
-DNS,Deviated Nasal Septum
-DOA,Dead On Arrival
-DOB,Date Of Birth
-DPCP,Diphencyclopropenone
-DR,Diabetic Retinopathy
-Dr.,"doctor; title for medical doctor, doctor of philosophy, doctor of education, etc."
-DRE , Digital rectal examination,Approved (current  abbreviation Electron Microscopy will be changed
-DRG,diagnosis-related group
-DS,Dow n's Syndrome - Trisomy 21
-Ds DNA,Double Stranded Dna
-DSA,Digital Subtraction Angiography
-DSM,Diagnostic and Statistical Manual of Mental Disorders
-DSM-IV-TR,"Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, Text Revision"
-DSPC,Double Space Power Chain
-dsRNA,Double stranded RNA
-DTaP,Diphtheria Tetanus acellular Pertussis
-DTIC,Dacarbazine
-DTP / DPT,Diphtheria-Pertussis-Tetanus
-DTP-Hib,"Diphtheria, Tetanus, Pertussis And Haemophilus B"
-DTR,Deep Tendon Reflexes
-DT's,Delirium Tremens
-DTT,Diphtheria Tetanus Toxoid
-DU,Duodenal ulc er - peptic ulcer
-DVT,Deep Venous Thrombosis
-DWI,driving while intoxicated
-Dx,diagnosis
-DXRT,Deep X-Ray Therapy
-E,electron
-e.g.,For Example
-E2,Estradiol
-EACA,Epsilon-Amino Caproic Acid
-EBA , Epidermolysis Bullosa Acquisita
-EBL,Estimated Blood Loss
-EBM,Expressed Breast Milk /Evidence Based Medicine
-EBT,Electron beam tomography
-EBV,Epstein-Barr Virus
-ECCE,Extracapsular cataract extraction
-ECG/EKG,Electrocardiogram
-ECHO,Echocardiography
-echo-virus,Enteric cytopathic human orphan virus
-ECMO,Extra Corporal Membrane Oxygeneration
-ECP | ECPP,extracorporeal photopheresis
-ECRB,Extensor Carpi Radialis Brevis
-ECRL,Extensor Carpi Radialis Longus
-ECT,Electroconvulsive Therapy
-ECU,Extensor Carpi Ulnaris
-ECV,External Cephalic Version
-ED,emergency department
-EDC,Expected Date Of Confinement
-EDD,Estimated Date Of Delivery
-EDM,Esophageal Doppler monitor
-EDRF,Endothelium-derived relaxing factor aka nitric oxide
-EDTA,Ethylene Diamine Tetra-Acetic Acid
-EDV,End-diastolic volume
-EEE,Eastern equine encephalitis
-EEG,Electroencephalography
-EENT,"Eyes, Ears, Nose, Throat"
-EF,Ejection Fraction
-EFM,"Electronic fetal monitoring, aka external fetal monitoring (cardiotocograph)"
-EGA,estimated gestational age
-EGF,Epidermal growth factor
-EJ,external jugular
-ELBW,Extremely Low Birth-Weight Infant
-ELISA,Enzyme-linked immunosorbent assay
-ELOS,estimated length of stay
-EM,Erythema Multiforme
-EMC,Encephalomyocarditis
-EMD,electromechanical dissociation
-EMF,Endomyocardial Fibrosis
-EMG,Electromyography
-EMS,Emergency Medical Services
-EMT,emergency medical technician
-EMT-P,emergency medical technician - paramedic
-ENA,Extractable Nuclear Antigen
-endo,Endocrinology/endoscopy
-ENDOT,Endodontics
-ENG,Electronystagmography
-ENT,"Ears, Nose, Throat"
-EOM,Extraocular Movements
-EOS,eospinophil
-EPAP,expiratory positive airway pressure
-Epi,Epinephrine
-EPO,Erythropoietin
-EPP,Erythropoietic Protoporhyria
-EPR,Estimated Protein replacement
-EPS,Electrophysiology Studies
-EPT,Electric Pulp Test
-ER,Emergency Room
-ER/PR,estrogen receptor/progesterone receptor
-ERCP,Endoscopic retrograde cholangio-pancreatogram
-ERRLA,"equal, round, react to light accomodation"
-ES,Ewing Sarcoma
-ESBL,Extended-Spectrum beta- Lactamase
-ESR,Erythrocyte sedimentation rate
-ESRD,End Stage Renal Disease
-ESRF,End Stage Renal Failure
-ESV,End-systolic volume
-ESWL,Extracorporeal Shock Wave Lithotripsy
-ET,Endotracheal
-ETA,estimated time of arrival
-ETCO2,End-Tidal Co2
-ETOH,Ethanol
-ETS,Endoscopic thoracic sympathectomy
-ETT,Endotracheal Tube
-EUA,Examination Under Anesthesia
-EUS,Endoscopic ultrasonography
-Eval,Evaluation
-EVAR,Endovascular aneurysm repair
-EVD,External Ventricular Drain
-EXAM,Examination
-EXT,Extension
-F,Fahrenheit
-F &N,fever & neutropenia
-f/VT,Frequency Tidal Volume Ratio
-FA,Fatty Acids 
-FFA,free fatty acids
-FAMMM,Familial atypical multiple mole melanoma syndrome
-FAP,Familial adenomatous polyposis
-FB,Foreign Body
-FBG,Fasting Blood Glucose
-FBS,Fasting Blood Sugar
-FBTx,Fetal Blood Transfusion
-FCPO,Formocresosol Pulpotomy
-FDP,Fibrin Degradation Products
-Fe,Iron
-FEF,forced expiratory flow
-FEP,Free erythroc yte protoporphyrin
-FeSO4,Ferrous Sulfate
-FESS,Functional endoscopic sinus surgery
-FEV1,Forced expiratory volume over one second
-FFP,Fresh Frozen Plasma
-FHx,family history
-FHDRR,Familial Hypophosphatemic Vitamin D Resistant Rickets
-FHR,Fetal Heart Rate 
-FHS,Fetal heart sounds
-fib,fibrillation
-FIM,functional index measure
-FIO2,Fraction Inspired Oxygen
-FISH,Fluorescence in situ hybridization
-FIV,forced inspiratory volume
-FIVD,Fixed Interval Variable Dose
-FK506,Tacrolimus
-fl,Fluid
-fl.oz.,Fluid ounce (1 Imperial fluid ounc e ≈ 28.4 mL; 1 U.S. fluid ounc e ≈ 29.6 mL)
-FM,Face Mask
-FMF,Familian Mediterranean Fever
-FML,Fluoromethalone,Not to be used in writing medication orders
-fMRI,Functional magnetic resonance imaging
-FMX,Full Mouth Periapical X-Ray Series ,Dental
-FNA,Fine Needle Aspiration
-FNABx,Fine Needle Aspiration Biopsy
-FNP,Family Nurse Practitioner
-FO,fiber optic
-FOB,Foot of Bed
-FPD,Fixed Partial Denture
-FRC,functional residual capacity
-FROM,Full Range of Motion
-FSC,Fertility Screening Cycle
-FSE,Fetal Scalp Electrode
-FSGS,Focal Segmental Glomerulosclerosis
-FSH,Follicle Stimulating Hormone
-FT,Full Term
-ft.,feet
-FT4,Free T4
-FTA,Fluorescent Treponemal Antibody
-FTA-AB,Fluorescent Treponemal Antibody Absorption Test
-FTBI,fractionated total body irradiation
-FTCa,Follicular Thyroid Ca
-FTD,full therapeutic dose
-FTSG,full-thickness skin graft
-FTT,Failure To Thrive
-F/U,Follow Up
-FUO,Fever Of Undetermined Origin/fever unknown origin
-FVC,Forced Vital Capacity
-FVT,fast ventricular tachycardia
-FWB,Full Weight bearing
-Fx,fracture
-G,Gravida
-G6PD,Glucose 6-Phosphate Dehydrogenase
-GA,General Anesthesia/Gestational Age
-GA1,Glutaric aciduria type 1
-GABA,Gamma-aminobutyric acid
-GAD,Generalized  Anxiety Disorder
-GAF,Global Assessment of Functioning
-GB,Gallbladder
-GBM,Glomerular basement membrane
-GBS,Guillain-Barre syndrome
-GC,Gonococcus
-GCA,Giant cell arteritis
-GCS,Glasgow Coma Scale
-G-CSF; GCSF,Granulocyte - Colony Stimulating Factor
-GCT,Giant Cell Tumor
-GD,Graves’ Disease
-GDM,Gestational Diabetes Mellitus
-GDP,Guanosine diphosphate
-GENU,Genitourinary
-GERD,Gastro Esophageal Reflux Disease
-GFR,Glomerular Filtration Rate
-GGT,Gamma glutamyl transferase
-GGTP,Gamma glutamyl transpeptidase
-GH,Growth Hormone
-GHRH,Growth Hormone Releasing Hormone 
-GHRF,Growth Hormone Releasing Factor
-GI/GIT,Gastrointestinal/Gastrointestinal Tract
-GIFT,Gamete Intrafallopian Transfer
-GIP,Gastric Inhibitory Peptide
-GIST,Gastrointestinal stromal tumor
-glc,glaucoma
-GLP,Glucagon-Like Peptide
-GLUT,Glucose Transporter
-gm.,Gram
-GM-CSF,Granulocyte Macrophage-Colony Stimulating factor
-GMP,Guanosine monophosphate
-GM-Stain,Gram Stain
-GN,Glomerulonephritis
-GnRH,Gonadotropin Releasing Hormone
-GOAT,Galveston Orientation and Amnesia Test
-GOT,Glutamic-oxalacetic transaminase
-GP,Gutta Percha,Dental
-GPC,Giant papillary conjunctivitis
-GPT,Glutamic-pyruvic transaminase
-GSD,Glycogen Storage Disease
-GT,Gastrostomy Tube
-gtt.,Gutta (Drop)
-GTT,Glucose Tolerance Test
-Gtube,Gastric tube
-GU,Genitourinary
-GVHD,Graft Vs. Host Disease
-GVL,graft versus lymphoma
-GYN,gynecology
-H & P,History And Physical
-H&E,"Hematoxylin and eosin, a standard tissue stain"
-H&H,Hemoglobin and hematocrit
-H&M,Hematemesis and melena
- H/O,history of
-H202,Hydrogen Peroxide
-H2O,Water
-HAA,Hepatitis Associated antigen
-HAART,Highly active anti-aetroviral therapy
-HACE,High-altitude cerebral edema;Hepatic artery chemotherapy/embolization
-HACEK,Haemophilus actinobacillus cardiobacterium eikenella and kingella
-HAE,Hereditary angioedema
-HALE,Health-adjusted life expec tancy
-HAMD,Hamilton Rating Scale for Depression
-HANE,Hereditary Angioneurotic Edema
-HAPE,High-altitude pulmonary edema
-HAV,Hepatitis A virus
-HAV Ag,Hepatitis A Virus Antigen
-HAVAb,Hepatitis A Virus Antibody
-HB,Heart block
-HbA,Hemoglobin A (c ommonest type of hemoglobin)
-HbA1C,Glycosylated Hemoglobin
-HBcAb,Hepatitis B Core Antibody
-HBcAg,Hepatitis B Core Antigen
-HBeAb,Hepatitis Be Antibody
-HBeAg,Hepatitis Be Antigen
-HbF,Fetal hemoglobin
-HBIG,Hepatitis B immunoglobulin
-HBO,Hyperbaric Oxygen (therapy)
-HBP,high blood pressure
-HBsAb,Hepatitis B Surface Antibody
-HBsAg,Hepatitis B Surface Antigen
-HBV,Hepatitis B virus
-HC,Head Circumference
-HCC,Hepatocellular carcinoma
-HCG,Human Chorionic Gonadotropin
-HCL,Hairy cell leukemia/hydrochloride
-HCM,Hypertrophic cardiomyopathy
-HCO |HCOз,Bicarbonate | sodium bicarbonate
-Hct | HCT,hematocrit
-HCV,Hepatitis C Virus
-HD,Hemodialysis/Hodgkin's Disease
-HDL,High Density Lipoprotein
-HDMTX,High Dose Methotrexate
-HDMTX-CF,High Dose Methotrexate + Calcium Folinate,Not to be used in writing medication orders
+CSA,Cyclosporin-A,Not to be used in writing medication orders
+CF,Cystic Fibrosis,
+CFTR,cystic fibrosis transmembrane regulator,
+CME,Cystoid macular edema,
+cysto,cystoscopy,
 Ara-C,Cytarabine,Not to be used in writing medication orders
-HDV,Hepatitis D Virus
-HEENT,"Head, Eyes, Ears, Nose, Throat"
-HELLP,"Haemolysis, Elevated Liver Enzymes, & Low Platelet Count"
-Hema,Hematest - e.g. Hema (-) - fecal occult blood
-heme,hematologic 
-hemi,"one half (hemiparesis, hemiplegia"
-heplock,heparin lock
-HES,Hydroxyethyl starch/hypereosinophil syndrome
-HETE,Hydroxyeicosatetraenoic acid
-HEV,Hepatitis E Virus
-HF,heart failure
-HFJV,high frequency jet ventilation
-HFOV,High -Frequency Oscillatory Ventilation
-Hgb/Hb,Hemoglobin
-HGPRTase,Hypoxanthine-guanine phosphoribosyl transferase
-HGSIL,High grade squamous intraepithelial lesion
-HGV,Hepatitis G virus
-HHFM,High Humidity Face Mask
-HHH,Hyperornithinemia-Hyperammonemia-Hypercitrullinuria
-HHT,Hereditary hemorrhagic telangiec tisia
-HHV,Human herpesvirus
-Hib,Haemophilus Influenza Type B
-HIDS,Hyper-IgD (and periodic fever) syndrome
-HIE,Hyper Immunoglobuline E (Hyper IgE)
-HIM,Hyper Immunoglobuline m (Hyper IgM)
-HIT,heparin-induced thrombocytopenia
-HIV,Human Immunodeficiency Virus
-HJR,hepatojugular reflux
-HKAFO,Hip Knee Ankle Foot Orthosis
-HLA,Human Leukocyte Antigen
-HLH,Hemophagocytic lymphohistiocytosis
-HLHS,Hypoplastic left heart syndrome
-HMD,Hyaline Membrane Disease
-HME,Heat Moisture Enchanger
-HMEF,Heat Moisture Enchanging Filter
-HMF,Human Milk Fractions/fortifiers
-HMG,Human Menopausal Gonadotropin
-HMG CoA lyase,3Hydroxy 3methyl Glutaric CoenzymeA lyase
-HMGCoA reductase inhibitors,3-hydroxy-3-methyl-glutaryl-CoA
-HMGR,3-hydroxy-3-methyl-glutaryl-CoA reductase
-HMSN,Hereditary motor sensory neuropathy
-HND,Hemolytic disease of the new born
-HNPCC,Hereditary nonpolyposis colorectal cancer
-HOCM,Hypertrophic Obstructive Cardiomyopathy
-HPETE,Hydroxyeicosatetraenoic acid
-HPF,High Power Field
-HPI,History Of Present Illness
-HPOA,Hypertrophic pulmonary osteoarthropathy (clubbing)
-HPS,Hantavirus pulmonary syndrome
-HPV,Human papillomavirus
-HR ,Heart Rate
-hr.,Hour
-H-rod,Harrington Rod
-HRPCM,high risk primary cutaneous melanoma
-HRT,Hormone Replacement Therapy
-hs,bedtime
-HSC,hemotopoetic stem cell
-HSG,Hystero-Salpingo-Gram
-HSIL,High grade squamous intraepithelial lesion
-HSM,hepatosplenomegaly
-HSP,Henoch-Schönlein Purpura
-HSV,Herpes Simplex Virus
-Ht.,Height
-HTLV,Human T-lymphotropic virus
-HTLV-1,human T-cell leukemia virus type 1
-HTN,Hypertension
-HTO,High Tibial Osteotomy
-HUS,Hemolytic Uremic Syndrome
-Hx,History
-HYPERAL,Hyperalimentation
-Hz,Hertz (Cycles Per Second)
-I,Incisal,Dental
-I 131 or 131I,Radioactive iodine
-I&D,Incision And Drainage
-I&O,Intake And Output
-inpt.,inpatient
-I:E,Inspiratory to Expiratory Ratio
-I125,Iridium 125
-IA,Intra-articular
-IABP,Intraortic Balloon Pump
-IAPP,Islet Amyloid Polypeptide
-IBC,Inflammatory breast cancer
-IBD,Inflammatory bow el disease
-IBS,Irritable bow el syndrome
-IBW,Ideal Body Weight
-IC,Intracardiac
-ICA,Internal Carotid Artery
-ICAb,Islet Amyloid Polypeptide
-ICBG,Iliac Crest Bone Grafting
-ICCE,Intracapsular cataract extraction
-ICD,Implantable Cardioverter Defibrilator
-ICD-10,International Classification of Diseases-10th Revision
-ICG,Impedance cardiography
-ICH,Intracranial Hemorrhage or intracerebral hemorrhage
-ICIS,Integrated Clinical Information System
-ICN,Intermediate Care Nursery
-ICP,Intracranial Pressure
-ICS,Intercostal Space
-ICSH,Interstitial Cell Stimulating Hormone
-ICSI,Intra-Cytoplasmic Sperm Injection
-ICU,Intensive Care Unit
-ICW,Intracellular Water
-ID,infectious disease
-IDC,Infiltrating ductal carcinoma
-IDDM,Insulin Dependent Diabetes Mellitus
-IDET,intradiscal electrothermal therapy
-IDL,Intermediate Density Lipoprotein
-IDPN,Intradialytic parenteral nutrition
-IDPT,Indirect Pulp Therapy
-IFOS,Ifosfamide
-IF,Immunofluorescence
-IFN,Interferon
-Ig,Immunoglobulin
-IgA,Immunoglobulin A
-IgD,Immunoglobulin D
-IgE,Immunoglobulin E
-IGF1,Insulin Line Growth Factor 1
-IgG,Immunoglobulin G
-IgM,Immunoglobulin M
-IGT,Impaired Glucose Tolerance
-IH,Inhalation
-IHA,Indirect Hemagglutination
-IHD,Ischemic Heart Disease
-IHMO,idiopathic hypertrophic migrating osteoporosis
-IHSS,idiopathic hypertrophic subaortic stenosis
-IJ,internal jugular
-IL-,Interleukin-(number)
-ILD,Interstitial lung disease
-ILV,independent lung ventilation
-IM,Intramuscular
-IMF,Intermaxillary Fixation
-immuno,immunologic
-Imp,Impression
-IMRT,intensity modulated radiation therapy
-IMV,Intermittent mandatory ventilation - Mechanical ventilation
-INF,Interferon(-α/- β/-γ )
-INH,Isoniazid
-Inj,injection
-iNO,inhaled Nitric Oxide
-INR,International Normalized Ratio
-INVER,Inversion
-IO,intraosseous
-IODO,Iodoform Gauze
-IOL,intraocular lens,opthalmology
-IOP,Intraocular Pressure
-IP,Peritoneal (intraperitoneal)
-IPAP,inspiratory positive airway pressure
-IPD,Intermittent Peritoneal Dialysis
-iPEEP,intrinsic positive end expiratory pressure
-IPF,Idiopathic pulmonary fibrosis
-IPG,impedance plethysmography
-IPP,Inflatable penile prosthesis
-IPP ,Inflatable penile prosthesis
-IPPA,"Inspection, palpatoin, percussion, auscultation"
-IPPB,Intermittent Positive-Pressure Breathing
-IPPV,Intermittent positive-pressure ventilation
-IPSS , International Prostatic Symptoms score
-IPV,inactive polio vaccine
-IQ,Intelligence Quotient
-IR,Internal Rotation
-IRDS,Infant Respiratory Distress syndrome
-IRM,Intermediate Restorative Material
-IRMA,Intraretinal Microangiopathy
-IRPCM,intermediate risk primary cutaneous melanoma
-IRRIG,Irrigation
-IRS,Insulin Receptor Substrate
-IS,Incentive Spirometry
-ISA,Intrinsic Sympathomimetic Activity
-ISW,Interstitial Water
-IT,Intrathecal
-ITP,Immune Thrombocytopenic Purpura
-ITT,Insulin Tolerance Test
-IUCD,intrauterine contraceptive device
-IUD,intrauterine device
-IUFD,IntraUterine Foetal Demise
-IUGR,Intrauterine Growth Retardation
-IUI,Intrauterine insemination
-IUP,Intrauterine pregnancy
-IUPC,Intra Uterine Pressure Catheter
-IUS,IntraUterine System
-IV,intravenous
-IVA,Iso valeric acidemia
-IVC,Inferior Vena Cava
-IV-DSA,Intravenous digital subtraction angiography
-IVF,In Vitro Fertilization
-IVH,Intraventricular Hemorrhage
-IVIG,Intravenous Immune Globulin
-IVP,Intravenous Pyelogram
-IVPB,Intravenous piggyback
-IVRO,Intraoral Vertical Ramus Osteotomy
-IVSK,Intravenous Streptokinase
-IVU,Intravenous Urography
-IVUS,Intravascular ultrasound
-J,joule
-JCA,Juvenile Chronic Arthritis
-JCV,John Cunningham virus
-JEV,Japanese enc ephalitis virus
-JGA,Juxtaglomerular Apparatus
-JIA,Juvenile idiopathic arthritis
-JJ stent,JJ stent
-Jo-1,Anti-Histidyl-Transfer Rna Synthetase
-JODM,juvenile onset diabetes mellitus
-JP,Jackson-Pratt
-JRA,Juvenile Rheumatoid Arthritis
-JT,junctional tachycardia
-J-tube,Jejunal tube
-JVD,jugular venous distention
-JVP,Jugular Venous Pressure
-JXg,juvenile xanthogranuloma
-K/K+,Potassium
-KAFO,Knee Ankle Foot Orthosis
-kCal,Kilocalorie
-KCCT,Kaolin cephalin clotting time
-KCI,Potassium Chloride
-kg,Kilogram
-KHz,kilohertz
-kJ,Kilojoules
-KSHV,Kaposi's sarcoma-associated herpesvirus
-KUB,"Kidneys, Ureter, Bladder"
-Kv,kilovolt
-KVO,Keep Vein Open
-K-wire,Kirschner Wire
-Ltr.,Liter
-L,Lingual,Dental
-L (1 to 5),Lumbar ( e.g. L2 fracture)
-L > R,left greater than right
-L&A,Light And Accommodation
-L&D,Labor & Delivery Room
-L/N; LN,Lymph node
-L1-5,"Lumbar Vertebra 1, 2, Etc"
-LA,Left Atrium
-Lab,Laboratory
-LABBB,Left anterior bundle branch block
-LAD,Left Anterior Descending (Coronary) Artery
-LAE,Left Atrial Enlargement
-LAF,laminar air flow
-LAFB,Left Anterior Fascicular Block
-LAG,lymphangiogram
-LAH,Left anterior hemiblock
-LAHB,Left anterior hemiblock
-LAP,Leukocyte Alkaline Phosphate/laprascopic
-lat,Lateral
-Lat Ceph,Lateral Cephalometric X-Ray
-LATS,Long Acting Thyroid Stimulator
-lb; LB,Pound (mass)
-LBBB,Left Bundle Branch Block
-LBP,Low Back Pain
-LBW,Low Birth Weight
-LCD,Liquor Carbonis Detergens (Coal Tar Solution)
-LCHAD,Long chain 3 Hydroxyacyl CoenzymeA dehydrogenase
-LCIS,Lobular carcinoma in situ
-LCP,Legg-Calve-Perthes
-LCS,Low Continuous Suction
-LCX,Left Circumflex Coronary Artery
-LD,Learning Disabilities
-LDH,Lactate Dehydrogenase
-LDL,Low Density Lipoprotein
-L-DOPA,Levo-DihydrOxyPhenylAlanine
-LE,Lower Extremity
-LF I,Le Fort I
-LF II,Le Fort II
-LF III,Le Fort III,Epinephrine (EPI)
-LFTs,Liver Function Tests
-LGA,Large For Gestational Age
-LGSIL,Low grade squamous intraepithelial lesion
-LH,Luteinizing Hormone
-LHON,Lebers Heredtary optic Neuropathy
-LHRH,Luteinizing Hormone Releasing
-Li,Lithium
-LIF,Left Iliac Fossa
-LIMA,Left Internal Mammary Artery
-LING,Lingual
-liq,liquid
-LLB,Left Lateral Bend
-LLD,Leg Length Discrepancy
-LLE,left lower extremity
-LLHA,Lower Lingual Holding Arch
-LLL,Left Lower Lobe
-LLQ,Lower Left Quadrat
-LLR,Left Lateral Rotation
-LML,left middle lobe
-LMM,lentigo maligna melanoma
-LMP,Last Menstrual Period
-LMSA,Left Main Stem Artery
-LMWH,low molecular weight heparin
-LN2,liquid nitrogen cryotherapy
-LOA,Left Occipitoanterior
-LOC,Loss of consciousness
-LOM,Left Otitis Media
-LOP,Left Occipitoposterior
-LOS,Length of stay
-LOT,left occiput transverse
-LP,Lumbar Puncture
-LPD,lymphoproliferative disorder
-LPFB,Left Posterior Fosicular Block
-LPN,Laparoscopic Partial Nephrectomy
-LPP,Lichen Planopilaris
-LPVS,lung protective ventilation strategy
-LR,Lactated Ringer'S Solution
-LRD,Living related donor
-LRN,Laparoscopic Radical Nephrectomy
-LRPCM,low risk primary cutaneous melanoma
-LS,Lumbosacral
-LSCS,Lower Segment Caesarian Section
-LSK,"Liver, Spleen, Kidneys"
-LSO,Lumbosacral Orthosis
-Lt,Left
-LT4,Levothyroxine
-LUE,left upper extremity
-LUL,Left Upper Lobe
-LUQ,Left Upper Quadrant
-LUTS,L ower urinary tract symptoms
-LV,Left Ventricle
-LVAD,Left Ventricular Assist Device
-LVE,Left Ventricular Enlargement
-LVEDP,Left Ventricle End Diastolic Pressure
-LVEF,Left Ventricular Ejection Fraction
-LVF,Left ventricular failure
-LVH,Left Ventricular Hypertrophy
-LVI,Lymphovascular invasion
-LVIDd,left ventricular internal dimension in diastole
-LVOT,Left Ventricular Outflow Obstruction
-LVSWI,Left Ventricular Stroke Work Index
-LWBS,Left without being seen
-lytes,Electrolytes
-M,Male
-M&M,Morbidity And Mortality
-m2,Meter Square
-MA,Microaneurysms
-MAC,Mitral Annular Calcification
-MADRS,Montgomery-Asberg Depression Rating Scale
-MAG3,As per DTPA scan
-MAHA,Microangiopathic hemolytic anemia
-MAO,Monoamine Oxidase
-MAO-I,Monoamine oxidase inhibitor
-MAP,Mean Arterial Pressure/mean airway pressure
-MARSA,Methicillin- and aminoglycoside-resistant Staphylococcus aureus
-MAS,Meconium Aspiration Syndrome
-max,Maximum
-MB2,Mesial Buccal 2ry Canal,Fahrenheit
-MBC,minimum bacteriocidal concentration
-MBV,Mitral Balloon Valvoplasty
-MCA,Middle Cerebral Artery
-MCAD,Medium Chain Acyl Coa Dehydrogenase Deficiency
-mcg,Microgram
-MCGN,Mesangiocapillary Glomerulonephritis
-MCH,Mean Corpuscular Hemoglobin
-MCHC,Mean Corpuscular Hemoglobin Concentration
-mCi,Millicurie
-MCL,Midcostal Line
-MCP,Metacarpophalangeal (Joint)
-MCT,Medium Chain Triglycerides
-MCTD,Mixed Connective Tissue Disease
-MCUG,Micturating cystourethrogram
-MCUG , Micturating cystourethrogram
-MCV,Mean Corpuscular Volume
-MD,Doctor Of Medicine
-MDD,Major Depressive Disorder
-MDI,Metered Dose Inhaler
-MDR,Multiple Drug Resistance
-MDS,myelodysplastic syndrome
-MDV,Multi-dose Vial
-Mec,Meconium
-Med,Medial/medical/medicine
-MEDLINE,Medical Literature Analysis and Retrieval System Online
-MELAS,Mitochondrial Encephalopathy;Lactic Acidosis;Stroke like episode
-MEN,Multiple Endocrine Neoplasia
-mEq,milliequivalent
-MERRF,Myoclonic Epilepsy With Ragged Red Fibers
-MESA,Microscopic Exploration for Sperm Aspiration
-MET/mets,Metastatic
-MEV,Million Electron Volts
-MF , Mycosis Fungoides
-MFR,myofascial release
-mg,Milligram
-MGJ,Mucogingival Junction,General Practitioner
-MgSO4,Magnesium sulfate /do not use in pharmacy orders( spell out)
-MGUS,Monoclonal gammopathy of undetermined significance (unknown)
-MHz,megahertz
-MI,Myocardial Infarction
-MIBC,Muscle Invasive Bladder cancer
-MIBC , Muscle Invasive Bladder cancer
-MIBG,Meta-iodobenzylguanidine
-MIC,Minimum inhibitory concentration
-Micro-TESE , Microsurgical testicular sperm extraction
-mid,middle
-MIF,maximum inspiratory force
-min,Minute/minimal
-MISC,Miscellaneous
-mL/ml,Milliliter
-MLC,Mixed lymphocyte culture
-MLD,Minimum Lethal Dose
-MLS,MicroLaryngoScopy
-MLT,Minimal Leak Technique
-mm,Millimeter
-MMA,Methylmalonic Acidemia
-MMC,Mitomycin C
-MMC , Mitomycin C
-MMEFR,Maximal Mid Expiratory Flow Rate
-MMF,Mycophenolate Mofetil
-mmol,Millimole
-MMPI,Minnesota Multiphasic Personality Inventory
-MMR,"Measles, Mumps, Rubella"
-MMV,Mandatory Minute Ventilation
-MN,Membranous Nephropathy
-MNG,Multinodular Goitre
-MNGIE,Mitochondrial neurogastrointestinal encephalopathy
-MODY,Maturity Onset Diabetes Of The Young
-MOF,multiple organ failure
-MOI,mechanism of injury
-MOM,Milk Of Magnesia
-Mono,Monocytes/mononucleosis
-MOPP,Mechlorethamine/ Vincristine/Procarbazine/Prednisone
-mOsm,Milliosmoles
-MOTC,Multi-Organ Transplant Center
-MPA,Mandibular Plan Angle
-MPAP,Mean Pulmonary Artery Pressure
-MPD(s),Myeloproliferative disease(s)
-MPGN,Membranoproliferative Glomerulonephritis
-MPH,miles per hour
-MPS,Mucopolysaccharidosis
-MPV,Mean platelet volume
-MR,Mitral Regurgitation
-MRA,Magnetic Resonance Angiography
-MRCP,Magnetic resonance cholangiopancreatography
-mrd,minimal residual disease
-MRD,matched related donor
-MRG,"Murmurs, rubs, and gallops (see heart sounds)"
-MRI,Magnetic Resonance Imaging
-MRN,Medical Record Number
-mRNA,Messenger Rna
-MRO,Mitral Regurgitation Orifice
-MROP,Manual Removal Of Placenta
-MRSA,Metricillin Resistance Staph Auerus
-MS,multiple sclerosis
-MSCD,Maximum Suction Catheter Depth
-MSD,Multiple Sulfatase deficiency
-MSE,Mental status examination
-MSH,Melanocyte-stimulating hormone
-MSK,Musculoskeletal 
-MSOF,multiple system organ failure
-MSU,Mid-Stream Urine
-MSUD,Maple Syrup Urine Disease
-mt.,Meter
-MTC,Medullary Thyroid Ca
-MtDNA,Mitochondrial DNA
-MTP,Metatarsophalangeal (Joint)
-MTX,Methotrexate,not to be used for prescribing medications
-MU,Million Units
-MUD,matched unrelated donor
-MV,Mechanical Ventilation
-MVA,Motor Vehicle Accident
-MVAC,Methotrexate Vinblastine Adriamycin Cisplatin,not to be used for prescribing medications
-MVD,Mitral Valve Disease
-MVP,Mitral Valve Prolapse
-MVPS,Mitral valve prolapse syndrome
-MVR,Mitral Valve Replacement
-MVRep,Mitral Valve Repair
-Mφ,Macrophage
-N,Nitrogen
-N/A,Not Applicable
-N/V,Nausea/Vomiting
-N/V/D,"nausea, vomiting and diarrhea"
-N2O,Nitrous Oxide,not to be used for prescribing medications
-Na,Sodium
-NaCI,Sodium Chloride
-NAD,No apparent distress
-NaF,Sodium Flouride
-NAGS,N-Acetylglutamate synthetase
-NaHCO3,Sodium Bicarbonate
-NaOCI,Sodium Hydrochloride
-NARP,Neuropathy;Ataxia;Retinitis Pigmentosa
-NBS,newborn screening
-NBTE,Nonbacterial thrombotic endocarditis
-NB-UVB,Narrow Band Ultra Violet B
-NC,Nasal Cannula
-NCA,Nurse controlled analgesia
-NCS,Nerve conduction study
-NCV,Nerve Conduction Velocity
-NDI,Nephrogenic Diabetes Insipidus
-Neb,Nebuliser
-NEC,Necrotizing Enterocolitis
-neg,Negative
-Neut,Neutrophil granulocytes
-NG,Nasogastric
-NGT,Nasogastric Tube
-NGU,Non-gonococcal urethritis
-NHL,Non-Hodgkin’s lymphoma
-NICU,Neonatal Intensive Care Unit
-NIDDM,Non-Insulin Dependent Dm
-NIF,Negative Inspiratory Force
-NIH,National Institute of Health
-NIM,Non-invasive Monitor
-NIPPV,Non-Invasive Positive Pressure Ventilation
-NIRS,Near infrared spectroscopy
-NiTi,Nickel Titanium
-NIV,Non -Invasive Ventilation
-NK,natural killer
-NKA,No known Allergy
-NKDA,No known drug allergies
-NKHC,Non Ketotic Hyperosmolar Coma
-Nl,Normal
-NLP,No light perception 
-NM,nuclear medicine
-NMDP,national marrow donor program
-NMR,Nuclear magnetic resonance
-NND,Neonatal Death
-NNN,Normal Newborn Nursery
-NO,Nitric oxide
-No.,Number
-non rep,Non Repetatur (Do Not Repeat)
-Nor–epi/NE,Norepinephrine
-NOS,not otherwise specified
-NP,Nasopharynx 
-NPA,Nasopharyngeal aspirate
-NPDR,Non proliferative diabetic retinopathy
-NPH,Normal pressure hydrocephalus
-NPO,nothing by mouth
-NREM,Non-Rapid Eye Movement
-NRM,Non-Rebreather Mask
-NS,Normal Saline
-NSAID,Nonsteroidal Anti-Inflammatory  Drug
-NSCC,Non-squamous-cell carcinoma
-NSCLC,Non-Small Cell Lung Cancer
-NSE,Neurospecific enolase
-NSPC,No Space Power Chain
-NSR,Normal Sinus Rhythm
-NSS, Nephron sparing surgery
-NST,Non-Stress Test (see cardiotocograph)
-NSTEMI,Non-ST elevation myocardial infarction
-NSVD,Normal Spontaneous Vaginal Delivery
-NSVT,Nonsustained ventricular tachycardia
-NT,Nasotracheal
-GTN,Glyceryl Trinitrate,not for prescribing medication
-NTG ,Nitroglycerin,not for prescribing medication
-NTT,Nasotracheal tube (see intubation)
-NVD,Neovascularization at the disc
-NVE,Neovascularization of the retina elsewhere
-NVI,neovascularization of the Iris
-NWB,Non Weightbearing
-NYHA,New York Heart Association
-O,Occlusal
-O & P,Ova And Parasites
-O/E,On Examination
-O2,Oxygen
-O2 sat,Oxygen Saturation
-OA,Osteoarthritis/Occiput anterior
-OAB,Overactive bladder
-OAB , Overactive bladder
-OAE,Otoacoustic Emissions
-OAT,Ornithine Amino Transferase
-OB,Overbite
-OB-Gyn,Obstetrics and gynecology
-OBS,Organic brain syndrome
-OC,Orale contraceptives
-OCP,Oral contraceptive pill
-OCD,Obsessive-compulsive disorder
-OCG,Oral cholecystogram
-OCT,Oxytocin Challenge Test
-od/OD,right eye
-ODD,Oppositional defiant disorder
-OFC,occipitofrontal circumference
-OG,Orthognathic
-OGN,oligonucleotide
-OGT,Oral Gastric Tube
-OGTT,Oral glucose tolerance test
-OHSS,Ovarian Hyper-Stimulation Syndrome
-"oint, ung",ointment
-OJ,Over Jet
-OKC,Odontogenic Keratocyst
-OKT,Odontogenic Keratocystic Tumour
-OKT3,Muromonab – Cd3 - change to CD3
-OM,Otitis Media
-OOB,Out Of Bed
-OOP,Out Of Plaster
-OP,Operative
-OP ,oropharynx
-OPD,Outpatient Department
-OPG,oculoplethysmograph
-ophth,ophthalmic
-OPU,Ovum Pick-up/oocyte pick-up
-OPV,Oral polio Vaccine
-OR,Operating Room
-ORIF,Open Reduction And Internal Fixation
-ORL,OtoRhinoLaryngology
-ORSA,Oxacillin-resistant staphylococcus aureus
-Ortho,Orthodontics
-Ortho Surg,Orthopedic Surgery
-os,"Left eye from Latin, oculus sinister",ophthalmology
-OS,osteogenic sarcoma
-OSA,Obstructive sleep apnea
-osm,Osmolarity
-Osteo,Osteomyelitis
-OT,Occupational Therapy
-OTC,Over-the-counter drug
-OTCD,Ornithine transcarbamoylase deficiency
-ou,"Both eyes, from Latin, oculi uterque"
-oz,Ounce
-P,Palatal,Dental (surface)
-P (number),Parity ( example G2P1)
-p.r.,Per rec tum (as noun: rectal examination)
-p.r.n.,as needed
-p.v.,Per vagina (as noun: vaginal examination with manual examination and speculum inspection)
-P2,pulmonic second sound
-PA,Postero-Anterior
-Pulm Art,Pulmonary Artery
-PABA,Para-Aminobenzoic Acid (Vitamin B10)
-PAC,Premature Atrial Contractions /Pulmonary artery catheter
-PACO2,Partial Arterial Carbon Dioxide Pressure
-PACU,Post Anesthesia Care Unit
-PAD,Peripheral artery disease - Peripheral artery occlusive disease
-PAH,Pulmonary arterial hypertension
-PAI-1,Plasminogen activator inhibitor 1
-PALS,Pediatric Advanced Life Support
-PAN,Polyarteritis Nodosa
-P-ANCA,perinuclear antineutrophil cytoplasmic antibody
-PANSS,Positive and Negative Syndrome Scale
-PAO2,partial pressure of oxygen in arterial blood
-PaOP,pulmonary artery occlusion pressure
-PAP,Pulmonary Artery Pressure
-Pap smear,Papanicolaou Smear
-PAR,Postanesthesia Recovery
-PAS,periodic acid-schiff
-PASVR,pulmonary anomalous superior venous return
-PAT,Paroxysmal Atrial Tachycardia
-PATH,Pathology
-PAV,proportional assist ventilation
-PAW,pulmonary artery wedge
-PAWP,pulmonary artery wedge pressure
-Pb,lead
-PBI,protein-bound iodine
-PBSC,peripheral blood stem cells
-PBSCR,Peripheral Blood Stem Cell Reconstruction
-PBSCT,peripheral blood stem cell transplant
-PBV,Pulmonary Balloon Valvuplasty
-PC/PS,pressure control with pressure support
-PCA,Patient Controlled Analgesia
-PCD,Pyruvate Carboxylase deficiency
-PCIRV,pressure controlled inverse ration ventilation
-PCL,Posterior cruciate ligament
-PCNL,Percutaneous Nephrolithotomy
-PCNSL,Primary CNS (c entral nervous system) lymphoma
-PCO2,Partial Pressure of Carbon Dioxide
-PCOS,Poly-Cystic Ovarian Syndrome
-PCP,Pneumocystis carinii pneumonia
-PCR,polymerase chain reaction
-PCS,Post-concussion syndrome
-PCT,Post Coital Test
-PCV,pressure control ventilation
-PCV+,pressure control ventilation with pressure support
-PCWP,Pulmonary capillary w edge pressure
-pd,prism diopter; pupillary distance
-PDA,patent ductus arteriosus
-PDGF,Platelet derived growth fac tor
-PDH,Pyruvate dehydrogenase complex
-PDL,Pulse Dye Laser
-PDR,Proliferative diabetic retinopathy
-PDT,Photodynamic Therapy
-PE,physical examination; pulmonary embolism; tubes polyethylene tubes
-PEA,Pulseless electrical activity
-ped,pediatric
-PEEP,positive end-expiratory pressure
-PEEPi,intrinsic positive end-expiratory pressure
-PEF,Peak expiratory flow
-PEFR,Peak expiratory flow rate
-PEG-Asp,Pegylated Asparignase
-PEG-GCSF,PEG-Filagrastrim
-PEG,Percutaneous endoscopic gastrostomy
-PEG-IFN,Pegylated Interferon
-PELVIS,"Perinatal hemangioma, External genitalia malformations, Lipomyelomeningocele, Vesicorenal abnormalities, Imperoforate anus (Syndrome Must be written next to the abbreviation)"
-PELVIS ,"Perinatal hemangioma, External genitalia malformations, Lipomyelomeningocele, Vesicorenal abnormalities, Imperoforate anus (Syndrome Must be written next to the abbreviation)"
-Perio,Periodont(al) (itis) (ics)
-PESA , Percutaneous epididymal sperm aspiration
-PET,Positron-emission tomography (cerebral metabolic scan)
-PF,preservative free
-PFM,Porcelain Fused to Metal
-PFNS,preservative free normal saline
-PFO,Patent foramen ovale
-PFT,Pulmonary func tion test - Spirometry
-PGCS,Pediatric Glasgow Coma Scale
-PGD,Preimplantation genetic diagnosis
-pH,hydrogen ion concentration
-PHACES,"PHACES (Posterior fossa abnormalities, Hemangioma, Arterial cerebral anomalies, Cardiac deffect, eye anamolies) -(Syndrome Must be written next to the abbreviation)"
-Pharm,pharmacy
-PMHx,Past medical history
-HxPI,History of Present Illness
-PI,Principle Investigator
-PICC,Percutaneously inserted central catheter
-PID,pelvic inflammatory disease
-PIH,pregnancy-induced hypertension
-PILO,pilocarpine
-PIOL,phakic intraocular lens
-PIP, peak inspiratory pressure
-PIPDA (scan),99mTc-para-isopropylacetanilido-iminodiaacetic acid (cholescintigraphy)
-PIV,peripheral intravenous
-PK,pharmacokinetics
-PKA,Protein kinase A
-PKD,Polycystic kidney disease
-PKP,penetrating keratoplasty
-PKU,Phenylketonuria (PKU card - Guthrie test)
-plt,platelet
-PLEVA,pityriasis lichenoides et varioliformis acuta
-PLS,Papillon Lefevre Syndrome
-PLV,partial liquid ventilation
-PM,afternoon/evening
-PMD,private medical doctor
-PMH,past medical history
-PMN,"Polymorphonuclear leukocytes, i.e., Neutrophils"
-PMS,premenstrual syndrome
-PMV,Passy-Muir speaking valve
-pneumo,pneumothorax
-PNH,Paroxysmal nocturnal hemoglobinuria
-PO ,by mouth
-PO2,pressure of oxygen
-PO4,phosphate
-POAG,Primary open angle glaucoma
-POCT,point of care testing
-POD,postoperative days
-POE,physician order entry
-Post,after
-Post-op,postoperative
-PPD,purified protein derivative (TB test)
-PPE,Personal Protective Equipment
-PPI,Proton pump inhibitor
-PPK,Palmoplantar Keratoderma
-ppm,parts per million
-PPN,peripheral parenteral nutrition
-PPROM,Preterm premature rupture of membranes
-PPTL,Post-partum tubal ligation
-PPV,Pars plana vitrectomy
-PRBC,Packed red blood cells
-Pre Op,Pre-operative
-Premie,Premature infant 
-preop,preoperative
-prep,preparation
-PRIND,Prolonged reversible ischemic neurologic deficit
-PRK,photorefractive keratectomy
-prn,as needed
-Prosth,Prosthdonti(cs) (st)
-PltRP,Platelet Rich Plasma
-PRP,Panretinal photocoagulation,ophthalmology
-PRVC,pressure regulated volume control
-Ps,Psoriasis
-PSA,prostate specific antigen
-PSC,Posterior Sclerotic Cataract
-PSCT,peripheral stem cell transplant
-PSH,past social history
-PSI,pounds per square inch
-PSP,Phenylsulphtalein
-PSS,Progressive systemic sclerosis - scleroderma
-PT,prothrombin time
-Pt.,"Patient, from Latin patiens, meaning ""one who endures"""
-PT/OT,physical therapy/occupational therapy
-PTCA,percutaneous transluminal coronary angioplasty
-PTCL,peripheral T-cell lymphoma
-PTH,Parathyroid hormone
-PTHC,Percutaneous transhepatic cholangiography
-PTK,phototherapeutic keratectomy
-PTLD,post-transplant lymphoproliferative disorders
-PTS,Pyruvoyl tetrahydropterin synthase
-PTSD,Posttraumatic stress disorder
-PTSS,Posttraumatic stress syndrome - posttraumatic stress disorder
-PTT,Partial thromboplastin time
-Pu,plutonium
-PUBS,percutaneous umbilical blood sampling
-PUD,Peptic ulcer disease
-PUNLMP,Papillary Urothelial Neoplasm of low malignant potential
-PUNLMP ,Papillary Urothelial Neoplasm of low malignant potential
-PUO,Pyrexia of unknown origin
-PUVA,Psoralen UV A (photoc hemic al ultraviolet light A waves)
-PVC,premature ventricular contraction
-PVD,Posterior vitreous detachment
-PWS,Port Wine Stain
-PWS ,Port Wine Stain 
-q,"every, per"
-q,"Quaque (Each, Every)"
-Q,Perfusion
-q.i.d,Four Times A Day (Quater In Die)
-QALY,Quality-adjusted life year
-qd,every day
-QFT-G,QuantiFERON-TB Gold
-qh,Every Hour (Quaque Hora)
-qh,every hour
-qhs,at bed time
-qid,four times a day
-QIg,Quantitative Immunoglobulin
-QNS,Quantity Not Sufficient
-qod,every other day
-qs,Quantity Sufficient
-qt,Quart
-QUAD,Quadrant
-R,Roentgen (unit of radiation exposure)
-R > L,right greater than left
-R/O,Rule Out
-RA,Rheumatoid Arthritis; Right Atrium
-RA,Right Atrium
-RAD,Right Axis Deviation
-RAE,Right Atrial Enlargement
-RAN,resident admit note
-RAS,Renal Artery Stenosis
-Raw,Airway Resistance
-RB,Retinoblastoma
-RBBB,Right Bundle Branch Block
-RBC,Red Blood Cell
-RBCM,Red Blood Cell Mass
-RBF,Renal Blood Flow
-RBVO,read back verbal order
-RCA,Right Coronary Artery
-RCC,Renal cell carcinoma
-RCC , Renal cell carcinoma
-RCT,Root Canal Treatment/Endodontic treatment
-RD,Rubber Dam
-RD,Retinal Detachment
-RDA,Recommended Dietary Allowance
-RDC,Research Diagnostic Criteria
-RDC,Research Diagnostic Criteria
-RDS,Respiratory Distress Syndrome
-RDW,Red cell distribution width
-Re-eval,Re-evaluation
-REF,"Refer To, Reference"
-REG,Regular
-REI,Reproductive Endocrinology & Infertility (NOT TO BE USED IN MEDICATION ORDERS)
-REM,Rapid Eye Movements
-RESP,Respiration
-Ret,Retainer
-retic,reticulocyte
-RF,Rheumatoid Factor
-RFA,Radiofrequency Abalation
-RFLP,Restriction fragment length polymorphism
-RGP,Retrograde pyelography
-RGP , Retrograde pyelography
-Rh,Rhesus factor
-RHD,Rheumatic Heart Disease
-RIA,Radio-Immune Assay
-RIBA,Radioimmunoblotting assay
-RIF,Right Iliac Fossa
-RIMA,Right Internal Mammary Artery
-RIO,Radical inguinal orchiectomy
-RIO ,Radical inguinal orchiectomy
-RLE,Right lower extremity
-RLL,right lower lobe
-RLQ,Right Lower Quadrant
-RME,Rapid Modified Glass Lonomer,Optic Glioma
-RML,Right Middle Lobe
-RMS,Rhabdomyosarcoma
-RN scan,Radionuclide Scan
-RNA,Ribonucleic Acid
-RNP,Ribonucleoprotein
-ROA,Right Occiptoanterior
-ROM,Range Of Motion
-ROP,Retinopathy of Prematurity
-ROS,Review Of Systems
-ROT,right occiput transverse
-RP,Renal Profile
-RPD,Removable Partial Denture
-RPE,Rapid Palatal Expansion
-RPF,Renal Plasma Flow
-RPGN,Rapidly Progressive Glomerulonephritis
-RPL,Recurrent Pregnancy Loss 
-RPLND,Retroperitoneal lymph node dissection
-RPLND , Retroperitoneal lymph node dissection
-RPM,revolutions per minute
-RPO,right posterior oblique
-RPR,Rapid Plasma Reagin (Test For Syphilis)
-RR,Respiratory Rate
-RRD,Rhegmatogenous retinal detachment
-RRR,regular rate and rhythm
-RS cell,Reed-Sternberg Cell
-RSD,Reflex Sympalhetic Dystrophy
-RSI,Rapid sequence induction
-RSV,Respiratory Syncytial Virus
-rt.,Right
-RT,Respiratory Therapy
-RT-100,Superficial X-Ray 100 Kvp
-RT3,Reversed T3
-RTA,Renal Tubular Acidosis
-RTC,Return To Clinic
-RT-PCR,Reverse transc riptase polymerase chain reaction
-RTS,Revised trauma score
-RUE,Right upper extremity
-RUL,Right Upper Lobe (lung)
-RUQ,Right Upper Quadrant
-RV,Right Ventricle
-RVAD,Right Ventricular Assist Device
-RVH,Right Ventricular Hypertrophy
-RVOT,Right Ventricle Outlet/outflow Tract
-RVOTO,Right Ventricle Outlet Tract Obstruction
-RVSWI,Right Ventricular Stroke Work Index
-RVT,Renal Vein Thrombosis
-Rx,"Prescription, Therapy"
-S & S,Symptoms And Signs
-S (1-5),Sacral vertebrae
-S&C,Scale And Curettage
-S&S,Signs and symptoms
-S/P,status post
-"S1, S2","First Heart Sound, Second Heart Sound, Etc"
-S-A,Sinoatrial
-SAA,Severe Aplastic Anemia
-SAD,Seasonal Affective Disorder
-SADS,Schedule for Affective Disorders and Schizophrenia
-SAH,Subarachnoid Hemorrhage
-SANS,Scale for the Assessment of Negative Symptoms
-SaO2/SO2,Arterial Oxygen Saturation
-SAP,Systemic Arterial Pressure/Stable angina pectoris/severe acute pancreatitis
-SAPS II,Simplified acute physiology score
-SARPE,Surgically Assisted Palatal Rapid Expansion
-SARS,Severe Acute Respiratory Syndrome
-SAT,speech awareness threshold
-sat.,saturation
-SBE,Subacute Bacterial Endocarditis
-SC,Subcutaneous
-SC 70,Scleroderma 70 Antibody
-SCAD,Short chain Acyl CoenzymeA Dehydrogenase
-SCC,squamous cell carcinoma
-SCD,sequential compression device
-SCID,Severe Combined Immunodeficiency
-SCLC,Small Cell Lung Cancer
-SCLE,subacute cutaneous lupus erythematosus
-Scope,Microscope or endoscope
-SCOT,Succinyl-CoenzymeA:3Oxoacid coenzymeA Transferase
-SCUF,Slow Continuous Ultrafiltration
-SDH,Subdural Hematoma
-Se,Selenium
-sed rate,sedimentation rate
-Segs,Segmented cells
-SEM,systolic ejection murmur
-SEMI,subendocardial myocardial infarction
-Seps,Separators
-SERM,Selective Estrogen Receptor Modulator
-SG/ S-G,Specific Gravity/Swanz-Ganz Catheter
-SGA,Small For Gestational Age
-SGOT (AST),Serum glutamic oxaloacetic transaminase
-SGPT (ALT),serum glutamic pyruvic transaminase
-SHBG,Sex hormone-binding globulin
-SHx,Surgical history
-SI units,Systeme Internationale Units
-SIADH,Syndrome of inappropriate antidiuretic hormone
-SIB,Self Injurous Behavior
-SIDS,Sudden infant death syndrome
-SIFE,Serum Immunofixation Electrophoresis
-sig,"Signa (Mark, Write , Let It Be Labelled)"
-SIJ,Sacroiliac Joint
-SIMV,Synchronised Intermittent Mandatory Ventilation
-SIRS,suspected inflammatory response syndrome
-SJS,Stevens Johnson Syndrome
-SJS , Stevens Johnson Syndrome
-SK,Seborrheic Keratosis
-SK ,Seborrheic Keratosis
-SL,Sublingual/Slit Lamp
-SLE,Systemic Lupus Erythematosus
-SLL,Small lymphocytic lymphoma
-SLNBx,sentinel lymph node biopsy
-SLO,Smith Lemle Opitz Syndrome
-SLR,Straight Leg Raising
-SMD,senile macular degeneration
-SMR,submucous resection
-SNF,skilled nursing facility
-SNP,Single Nucleotide Polymorphism
-SNP CGH,"Single nucleotide polymorphism, comperative genomic hybridisation"
-SNRI,Serotonin-norepinephrine reuptake inhibitor
-SO,Sacral Orthosis
-SO4,Sulfate
-SOAP,"subjective, objective, assessment, plan"
-SOB,Shortness of Breath
-Soln,Solution
-SOM,Secretary or Serous Otitis Media
-SOMI,Sterno-Occipital Mental Immobiliser
-SP Cath.,Suprapubic Catheter
-SPC,Suprapubic catheter
-SPC , Suprapubic catheter
-SPE/SPEP,Serum Protein Electrophoresis
-SPECT,Single photon emission computed tomography
-S-pin,Steinmann Pin
-SpO2,Oxygen Saturation by Pulse Oximetry
-sq,Square
-SRF,Subretinal fluid
-SRH,Subretinal hemorrhage
-SROM,Spontaneous Rupture Of Membranes
-SS,Hemoglobin SS (HbSS) - in Sickle-cell disease = SS disease
-ss DNA,Single Stranded Dna
-SS-A,Sjögren Syndrome Antibodies (Anti Ro)
-SSAW,Stainless Steel Arch Wire
-SS-B,Sjögren Syndrome Antibodies (Anti La)
-SSC,Stainless Steel Crown
-Sys. Sc,Systemic Sclerosis
-SSE,Soapsuds Enema
-SSj,Sjögren Syndrome
-SSKI,Saturated Solution Of Potassium Iodide
-SSPC,Single Space Power Chain
-SSPE,Subacute sclerosing panencephalitis
-SSRI,Selective serotonin reuptake inhibitor
-ssRNA,Single stranded RNA
-SSS,Sick sinus syndrome
-Staph.,Staphylococcus
-STAT,"Statim (At Once, Immediately) "
-STD,Sexually Transmitted Disease
-STEMI,ST elevation myocardial infarction
-STNR,Symmetrical tonic neck reflex
-STR,Short Tandem Repeats (Linkage Analysis) 
-Strept.,Streptococcus
-STS,Serologic Test For Syphilis
-STSG,split-thickness skin graft
-SUI,Stress urinary incontinence
-SUI ,Stress urinary incontinence
-Supp,Suppository
-Susp,Suspension
-SV,Stroke Volume
-SVC,Superior Vena Cava
-SVD,Spontaneous Vaginal Delivery
-SVG,saphenous vein graft
-SVI,Stroke Volume Index
-SVN,Small volume Nebulizer
-SVO2,Mixed Venous Oxygen Saturation
-SVR,Systematic Vascular Resistance
-SVRI,Systematic Vascular Resistance Index
-SVT,Supraventricular Tachycardia
-SW,social worker
-SWS,Sturge Weber Syndrome
-Sx,Symptoms
-Sz,Seizure
-T reg,regulatory T cell
-T&A,Tonsillectomy And Adenoidectomy
- T&C,Type And Crossmatch
-T(1-12),"Thoracic Vertebra 1, 2, Etc"
-T/Temp,Temperature
-T1DM,Type 1 Diabetes Mellitus
-T2DM,Type II Diabetes Mellitus
-T3,triiodothyronine
-T4,tetraiodothyronine; thyroxine
-T1-T12,thoracic vertebrae
-TA,toxin-antitoxin
-Tab,Tablet
-TAD,Temporary Anchorage Device
-TAH,total abdominal hysterectomy
-TAPVR,total anomalous pulmonary venous return
-TARS,Thrombocytopenia Absent Radii Syndrome
-TAT,Tetanus Antitoxin/Turn-around Time/thematic apperception test
-TB, tuberculosis
-TB pA,Thyroxin Binding Pre Albumin
-TBA,Thyroxin Binding Albumin
-TBBx,Transbronchial Biopsy
-TBD,to be determined
-TBG,Thryoxin Binding Globulin
-TBI,total body irradiation
-tbsp,Tablespoon (15ml)
-TC,Tongue Crib
-TCC , Transitional cell carcinoma
-TCD,transcranial doppler
-T-cells,Thymus-Dependent Lymphocytes
-TCID50,1/50 Of The Tissue Culture Immunizing Dose
-TCM,transcutaneous monitoring
-TCO,Transfer Factor Carbon Monoxide
-TcO2,Transcutaneous Oxygen
-TCRM,Tooth Coloured Restorative Material
-Td,tetanus & diphtheria toxoids for adults
-TE,tracheosophageal
-TEE,transeophageal echocardiogram
-TEF,Tracheo-Esophageal-Fistula
-TEN,toxic epidermal necrolysis
-TENS,Transcutaneous Electrical Nerve Stimulation
-TESA,Testicular Sperm Aspiration 
-TESE,Testicular Sperm Extraction 
-TF,Tube Feeding
-TFT,Thyroid Function Test
-TG,Triglycerides
-TGA,Transposition Of The Great Arteries
-TGF,Transforming Growth Factor
-TGV,Transposition Of Great Vessels
-THA,Total Hip Arthroplasty
-Therac-20,Cgr Therac-20 Linear Accelerator
-THR,Total Hip Replacement
-Ti,Inspiratory Time
-TIA,Transient Ischemic Attack (Cerebral)
-TIBC,Total Iron-Binding Capacity
-Tib-Fib,Tibia and fibula
-tid,Three Times Per Day (Ter In Die)
-TINC,Tincture
-TIPS,Transjugular Intrahepatic Portosystemic Shunt
-TIT,Trimming of Inferior Turbinates
-TKA,Total Knee Arthroplasty
-TKR,total knee replacement
-TKO,To keep open
-Tl,thallium
-T-L,Thoracolumbar
-TLC,Total Lung Capacity
-TLI,total lymphoid irradiation
-TLR,Tonic labyrinthine reflex
-TLS,tumor lysis syndrome
-TLSO,Thoracolumbosacral Orthosis
-TM,tympanic membrane
-Tmax,maximum temperature
-TMD,Temporo Mandibular Joint Disorder
-TMJ,Temporomandibular Joint
-TMJ-PDS,Temporomandibular Joint Pain Dysfunction Syndrome
-TMP/SMX,Trimethoprim Sulfamethoxazole,not to use in writing medication orders
-TMS,Tandem Mass Spectrometry for amino acids and acylcarnitine
-TMS,Tandem Mass Spectrometry for amino acids and acylcarnitine
-TN,trigeminal nerve
-TNF,tumor necrosis factor
-TNF-I,tumor necrosis factor inhibitor
-TNF-α,tumor necrosis factor alpha
-TnI,Troponin I
-TNM,"Tumor,Node,Metastasis Staging"
-TnT,Troponin T
-TNTM,too numerous to mention
-TO,Telephone Order
-TOF,Tetralogy Of Fallot
-top.,topically
-TORCHS,"Toxoplasma, Rubella, Cytomegalovirus, Herpes, Syphilis"
-TOT , Trans-obturator Tape
-tPA/TPA,tissue plasminogen activator
-TPI,Treponema pallidum immobilization test for syphilis
-TPN,Total Parenteral Nutrition
-TPO,Thyroid Peroxidase
-TPR,"Temperature, Pulse, Respiration"
-TPRBP,"Temperature, Pulse, Respiration, Blood Pressure"
-TR,Tricuspid Regurgitation
-trach,tracheostomy
-TRAM,Transverse rectus abdominis myoc utaneous flap (TRAM flap)
-TRAP,"criteria tremor, rigidity, akinesia or postural instablity bradykinesia, and postural instability/Tartarate resistant acid phosphatase"
-TRD,Tractional retinal detachment
-TRH,Thyrotropin Releasing Hormone
-trit.,"triturate, grind"
-TRUS , Transrectal Ultrasound
-TRUS & Bx , Transrectal ultrasound & Biopsy
-TS,Tricuspid Stenosis
-TSE,testicular self-examination
-TSEBT,total skin electron beam therapy
-TSH,Thyroid Stimulating Hormone
-TSI,Thyroid Stimulating Immunogloubin
-tsp,Teaspoon (5 ml)
-TSR,Total Shoulder Replacement
-TT,Tetanus Toxoid
-TT&BND,Total Thyroidectomy & Bilateral Nodal Dissection
-TTE,Transthoracic echocardiogram
-tTG,antitransglutaminase
-TTNB,Transient Tachypnea Of Newborn
-TTP,Thrombotic Thrombocytopenic Purpura
-TUMA,transurethral microwave antenna
-TUR,Transurethral Resection
-TURBT , Transurethral resection of Bladder tumor
-TURP,Transurethral Resection Prostate
-TUU , Trans uretero ureterostomy
-TV,Tricuspid Valve/Tidal Volume
-Tvol,Total Volume
-TVR,Tricuspid Valve Replacement
-TVRep,Tricuspid Valve Repair
-TVT T, Tension-free Vaginal tape
-Tx,Transfusion 
-UA,Urinalysis
-UAC,umbilical artery catheter
-UBC,Unicameral Bone Cyst
-UBT,urea breath test
-UC,ulcerative colitis
-UCCP,Unilateral Cleft Lip Palate
-UCD,Urea Cycle Defect/ urea cycle disorder
-UCG,Urinary Chorionic Gonadotrophin
-UDS , Urodynamic study
-UE,Upper Extremity
-UF,ultra filtration
-UFP,ultra filtration pressure
-UGCMS,Urine Gas Chromatography and Mass Spectrometry
-UGI,Upper Gastrointestinal Series
-ULQ,Upper Lefy Quadrants
-UMN,Upper Motor Neuron
-Ung,Unguentum (Ointment)
-UOP,Urinary Output
-UPE,Urine Protein Electrophoresis
-UPJ,ureteropelvic junc tion (see pyeloplasty)
-UPJO,Ureteropelvic junction obstruction
-UPJO , Ureteropelvic junction obstruction
-UPPP,Uvula Palatopharyngoplasty
-UPS,Uninterruptible Power Supply
-URI/ URTI,Upper Respiratory Tract Infection
-URQ,Upper Right Quadrant
-"US (U/S), USG",Ultra-Sound 
-UTD,up to date
-UTI,Urinary Tract Infection
-UTUC,Upper tract urothelial cancer
-UTUC ,Upper tract urothelial cancer
-UVAL,ultraviolet argon laser
-UVB,ultraviolet B phototherapy
-UVC,umbilical venous catheter
-UVJ,ureterovesical junction
-UVL,ultraviolet light
-V,Volume
-V&P,vagotomy and pyloroplasty
-V/Q,Ventilation/Perfusion scan
-V-1800,Varian Clinac-1800 Linear Accelerator
-V-2300 C/D,Varian Clinac-2300 C/D Linear Accelerator
-V-600C,Varian Clinac-600C Linear Accelerator
-VA,Visual Acuity
-vA,alveolar ventilation
-V-A,ventriculoatrial
-VACTREL,"Vertebral defects, anal atresia, cardiac defects, tracheo-esophageal fistula, renal anomalies, and limb abnormalities"
-VAD,Ventricular Assist Device/ Venous Access Device
-vag,Vaginal
-VAIA,Vincristin/Actinomycin D/ Ifosfamide/Adriamycin
-VAP,Ventilator Associated Pneumonia
-VATER,"Vertebral defects, anal atresia, tracheo-esophageal fistula, and renal anomalies."
-VATS,video assisted thoracoscopic surgery
-VAVD,vacuum assisted venous drainage
-VB,Vertebrobasilar
-VBAC,Vaginal Birth After Caesarean
-VBG,Venous Blood Gas
-VBL,Vinblastine
-VC,Vital Capacity
-VCD,Vocal Cord Dysfunction
-VCR,vincristine
-VCUG,Voiding Cysto-Urethrogram
-VCV,Volume Control Ventilation
-VD,venereal disease
-VDO,Vertical Dimension of Occlusion
-VDRF,Ventilator dependent respiratory failure
-VDRL,Venereal Diseases Research Laboratory (old test for syphilis)
-VEB,Ventric ular ectopic beat
-VEE,Venezuelan equine encephalitis
-Vent,Ventilator
-VEP,Visual Evoked Potentials
-VER,visual evoked response
-VF,Ventricular Fibrillation
-VFSS,videoflouroscopic swallow study
-VH,vitreous hemorrhage
-VHL,Von Hippel-Lindau Disease
-VI,Vincristine/Irinotecan
-VIP,Vasoactive-Intestinal Peptide
-Vit,Vitamin
-Vit A,Retinol
-VKC,vernal keratoconjunctivitis
-VLBW,Very Low Birth Rate
-VLCAD,Very long chain Acyl CoA dehydrogenase
-VLCFA,Very Long Chain Fatty Acids
-VLDL,Very Low Density Lipoprotein
-VM-26,Teniposide,not to use in writing medication orders
-VMA,Vanillylmandelic Acid
-VMD,Vertical Maxillary Excess
-VNPI,VanNuys prognostic scoring index (ductal carcinoma)
-VO,Verbal order
-VO2,Oxygen Consumption
-VOD,veno-occlusive disease
-Vol,Volume
-Vol %,Volume Percent
-V-P,ventriculoperitoneal
-VP-16,Etoposide,not to use in writing medication orders
-VPA,Valproic acid,not to use in writing medication orders
-VPAP,Variable positive airway pressure
-VPC (PVC),Premature ventricular contractions
-VRE,Vancomycin-resistant enterococcus
-VRSA,Vancomycin-resistant staphylococcus aureus
-VS,Vital Signs
-vs.,versus
-VSD,Ventricular Septal Defect
-VSR,Ventric ular septal rupture - myocardial rupture
-VSS,Vital Signs Stable
-Vt,Tidal Volume
-Vtach,Ventricular Tachycardia
-VTE,Venous Thromboembolism
-VUJ,Vesico ureteric junction
-VUR,Vesico ureteric reflux
-VVF,Vesico-vaginal fistula
-VVF , Vesico-vaginal fistula
-Vx,Vertex
-VZIG,Varicella Zoster Immunoglobulin
-VZV,Varicella Zoster Virus
-W/C,Wheelchair
-w/o,Without
-WA,when awake
-WAIS,Wechsler Adult Intelligence Scale
-WAP,Wandering atrial pac emaker (see multifocal atrial tachycardia)
-WAS,Wiskott-Aldrich Syndrome
-WBAT,Weight Bearing As Tolerated
-WBC,White Blood Cells/White Blood Count
-WDWN,Well Developed And Well Nourished
-WEE,Western equine encephalitis virus
-WES,Whole exome sequencing
-WG,Wegener's granulomatosis
-WGS,Whole genome sequencing
-WGS,Whole genome sequencing
-WL,Working Length
-WNL,Within Normal Limits
-WPW,Wolff-Parkinson-White syndrome
-wt,Weight
-X,Times
-X-bite,Cross Bite
-Ximatron,Varian Ximatron Cx Simulator
-XL,Extended Release
-XLP,X-Linked Lymphoproliferative Disease
-Xmatch,Cross Match
-XRT,radiation therapy
-Y-BOCS,Yale-Brown Obsessive Compulsive Scale
-yrs,years
-ZIFT,Zygote Intrafallopian Transfer
-Zn,Zinc
-ZnO2,Zinc Oxide,
+CMV,cytomegalovirus,
+CD8,cytotoxic cells,
+DTIC,Dacarbazine,Not to be used in writing medication orders
+DCR,Dacryocystorhinostomy,
+DOB,Date Of Birth,
+DOA,Dead On Arrival,
+dB,decibel,
+dL,deciliter,
+DHF,Decompensated heart failure,
+DBS,Deep Brain Stimulation,
+DTR,Deep Tendon Reflexes,
+DVT,Deep Venous Thrombosis,
+DXRT,Deep X-Ray Therapy,
+defib,defibrillate,
+DJD,Degenerative Joint Disease,
+DHEA,Dehydro-Epiandrosterone,Not to be used in writing medication orders
+DHEAS,Dehydro-Epiandrosterone Sulphate,Not to be used in writing medication orders
+DT's,Delirium Tremens,
+DFDBA,Demineralized Freeze-Dried Bone Allograft,
+DNA,Deoxyribonucleic acid,
+DNA-Ab,Deoxyribonucleic Acid Antibody,
+DEM,Department of Emergency Medicine,
+DH,Dermatitis Herpetiformis,
+Derm,dermatology,
+DDAVP,Desmopressin,
+DLD,Developmental language delay,
+DNS,Deviated Nasal Septum,
+D10W,Dextrose 10% In Water,
+"D20W, D30W","Dextrose 20, 30% in Water",
+D5W,Dextrose 5% in water,
+D5-1/2NS or D5-0.45%NaCl,Dextrose 5% in water- half normal saline,
+"D5NS, D5W-0.9%NaCl ",Dextrose 5% in water-Normal Saline,
+D5-1/2NS,Dextrose 5%-Half Normal Saline,
+D5-LR,Dextrose 5%-Lactated Ringer'S,
+D5NS,Dextrose 5%-Normal Saline,
+D5-1/4NS,Dextrose 5%-Quarter Normal Saline,Not to be used in writing medication orders
+DI,Diabetes Insipidus,
+DM,diabetes mellitus,
+DKA,Diabetic Ketoacidosis,
+DR,Diabetic Retinopathy,
+Dx,diagnosis,
+DRG,diagnosis-related group,
+DSM,Diagnostic and Statistical Manual of Mental Disorders,
+DSM-IV-TR,"Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, Text Revision",
+ddl,"Didanosine, dideoxyinosine",Not to be used in writing medication orders
+DES,Diethylstilbestrol,
+diff,Differential,
+DDx,Differential diagnosis,
+DAI,diffuse axonal injury,
+DHL,diffuse histiocytic lymphoma,
+DLC,diffuse large cell,
+DLCO,diffusion capacity,
+DRE,Digital rectal examination,
+DSA,Digital Subtraction Angiography,
+DHE,Dihydroergotamine,Not to be used in writing medication orders
+DHT,dihydrotestosterone,Not to be used in writing medication orders
+DISIDA (scan),diisopropyl iminodiacetic acid (cholescintigraphy),
+D&C,Dilatation And Curettage,
+D&E,Dilatation and evacuation,
+Dil,dilate,
+DPCP,Diphencyclopropenone,Not to be used in writing medication orders
+DT,Diphtheria & tetanus toxoids (for children),
+DTaP,Diphtheria Tetanus acellular Pertussis,
+DTT,Diphtheria Tetanus Toxoid,
+DTP-Hib,"Diphtheria, Tetanus, Pertussis And Haemophilus B",
+DTP / DPT,Diphtheria-Pertussis-Tetanus,
+DIF,direct immunofluorescence,
+D/C,discharge,
+DLE,Discoid Lupus,
+D/W,Discussed with,
+DMARD,disease-modulating antirheumatic drug,
+DIC,Disseminated Intravascular Coagulopathy,
+D,Distal,
+DIP,Distal Interphalangeal Joint,
+DNAR,Do not attempt resuscitation,
+DNR,Do Not Resuscitate,
+MD,Doctor Of Medicine,
+D.O.,Doctor of Osteopathic Medicine,
+Dr.,"doctor; title for medical doctor, doctor of philosophy, doctor of education, etc.",
+DFV,Doppler flow velocimetry,
+DSPC,Double Space Power Chain,
+Ds DNA,Double Stranded DNA,
+dsRNA,Double stranded RNA,
+DS,Dow n's Syndrome - Trisomy 21,
+DWI,driving while intoxicated,
+DIDMOHS,drug-induced delayed multiorgan hypersensitivity syndrome,
+DEXA,Dual Energy X-ray Absorptiometry,
+DMD,"Duchenne muscular dystrophy; Dentariae Medicinae Doctor, that is, Doctor of Dental Medicine",
+DCIS,Ductal carcinoma in situ,
+DU,Duodenal ulc er - peptic ulcer,
+ENT,"Ears, Nose, Throat",
+EEE,Eastern equine encephalitis,
+ECHO,Echocardiography,
+EF,Ejection Fraction,
+EPT,Electric Pulp Test,
+ECG/EKG,Electrocardiogram,
+ECT,Electroconvulsive Therapy,
+EEG,Electroencephalography,
+lytes,Electrolytes,
+EMD,electromechanical dissociation,
+EMG,Electromyography,
+E,electron,
+EBT,Electron beam tomography,
+EFM,"Electronic fetal monitoring, aka external fetal monitoring (cardiotocograph)",
+ENG,Electronystagmography,
+EPS,Electrophysiology Studies,
+EMS,Emergency Medical Services,
+EMT,emergency medical technician,
+EMT-P,emergency medical technician - paramedic,
+ER,Emergency Room,
+EMC,Encephalomyocarditis,
+ESRD,End Stage Renal Disease,
+ESRF,End Stage Renal Failure,
+EDV,End-diastolic volume,
+ENDOT,Endodontics,
+EMF,Endomyocardial Fibrosis,
+ERCP,Endoscopic retrograde cholangio-pancreatogram,
+ETS,Endoscopic thoracic sympathectomy,
+EUS,Endoscopic ultrasonography,
+endo,endoscopy,
+EDRF,Endothelium-derived relaxing factor aka nitric oxide,
+ET,Endotracheal,
+ETT,Endotracheal Tube,
+EVAR,Endovascular aneurysm repair,
+ESV,End-systolic volume,
+ETCO2,End-Tidal Co2,
+echo-virus,Enteric cytopathic human orphan virus,
+ELISA,Enzyme-linked immunosorbent assay,
+EOS,eospinophil,
+EGF,Epidermal growth factor,
+EBA,Epidermolysis Bullosa Acquisita,
+EPI,Epinephrine,Not to be used in writing medication orders
+EACA,Epsilon-Amino Caproic Acid,
+EBV,Epstein-Barr Virus,
+ERRLA,"equal, round, react to light accomodation",
+ Vit D3,Ergocalciferol,
+EM,Erythema Multiforme,
+ESR,Erythrocyte sedimentation rate,
+EPP,Erythropoietic Protoporhyria,
+EPO,Erythropoietin,Not to be used in writing medication orders
+EDM,Esophageal Doppler monitor,
+EBL,Estimated Blood Loss,
+EDD,Estimated Date Of Delivery,
+EGA,estimated gestational age,
+ELOS,estimated length of stay,
+EPR,Estimated Protein replacement,
+ETA,estimated time of arrival,
+E2,Estradiol,
+ER/PR,estrogen receptor/progesterone receptor,
+ETOH,Ethanol,
+EDTA,Ethylenediaminetetraacetic acid,
+VP-16,Etoposide,Not to be used in writing medication orders
+Eval,Evaluation,
+qhr,Every Hour (Quaque Hora),
+ES,Ewing Sarcoma,
+EXAM,Examination,
+EUA,Examination Under Anesthesia,
+EDC,Expected Date Of Confinement,
+EPAP,expiratory positive airway pressure,
+EBM,Expressed Breast Milk,
+XL,Extended Release,
+ESBL,Extended-Spectrum beta- Lactamase,
+EXT,Extension,
+ECRB,Extensor Carpi Radialis Brevis,
+ECRL,Extensor Carpi Radialis Longus,
+ECU,Extensor Carpi Ulnaris,
+ECV,External Cephalic Version,
+EJ,external jugular,
+EVD,External Ventricular Drain,
+ECMO,Extra Corporal Membrane Oxygeneration,
+ECCE,Extracapsular cataract extraction,
+ECP | ECPP,extracorporeal photopheresis,
+ESWL,Extracorporeal Shock Wave Lithotripsy,
+ENA,Extractable Nuclear Antigen,
+EOM,Extraocular Movements,
+ELBW,Extremely Low Birth-Weight Infant,
+EENT,"Eyes, Ears, Nose, Throat",
+FM,Face Mask,
+Factor XIII,Factor XIII Concentrate (Human) Fibrogammin®,
+F,Fahrenheit,
+FTT,Failure To Thrive,
+FAP,Familial adenomatous polyposis,
+FAMMM,Familial atypical multiple mole melanoma syndrome,
+FHDRR,Familial Hypophosphatemic Vitamin D Resistant Rickets,
+FMF,Familian Mediterranean Fever,
+FHx,family history,
+FNP,Family Nurse Practitioner,
+FVT,fast ventricular tachycardia,
+FBG,Fasting Blood Glucose,
+FBS,Fasting Blood Sugar,
+FA,Fatty Acids,
+ft.,feet,
+FeSO4,Ferrous Sulfate,Not to be used in writing medication orders
+FSC,Fertility Screening Cycle,
+FBTx,Fetal Blood Transfusion,
+FHR,Fetal Heart Rate,
+FHS,Fetal heart sounds,
+HbF,Fetal hemoglobin,
+FSE,Fetal Scalp Electrode,
+F &N,fever & neutropenia,
+FUO,Fever Of Undetermined Origin/fever unknown origin,
+FO,fiber optic,
+FEES,Fiberopticendoscopic Evaluation of swallow,
+fib,fibrillation,
+FDP,Fibrin Degradation Products,
+G-CSF,Filgrastim,
+FNA,Fine Needle Aspiration,
+FNABx,Fine Needle Aspiration Biopsy,
+"S1, S2","First Heart Sound, Second Heart Sound, Etc",
+FIVD,Fixed Interval Variable Dose,
+FPD,Fixed Partial Denture,
+fl,Fluid,
+FISH,Fluorescence in situ hybridization,
+FTA,Fluorescent Treponemal Antibody,
+FTA-AB,Fluorescent Treponemal Antibody Absorption Test,
+FML,Fluoromethalone,Not to be used in writing medication orders
+FSGS,Focal Segmental Glomerulosclerosis,
+FSH,Follicle Stimulating Hormone,
+FTCa,Follicular Thyroid Ca,
+F/U,Follow Up,
+FOB,Foot of Bed,
+e.g.,For Example,
+FEF,forced expiratory flow,
+FEV1,Forced expiratory volume over one second,
+FIV,forced inspiratory volume,
+FVC,Forced Vital Capacity,
+FB,Foreign Body,
+FCPO,Formocresosol Pulpotomy,
+qid,four times a day,
+FIO2,Fraction Inspired Oxygen,
+FTBI,fractionated total body irradiation,
+Fx,fracture,
+FEP,Free erythroc yte protoporphyrin,
+FFA,free fatty acids,
+FT4,Free T4,
+Fr,Frequency,
+f/VT,Frequency Tidal Volume Ratio,
+FFP,Fresh Frozen Plasma,
+FMX,Full Mouth Periapical X-Ray Series,
+FROM,Full Range of Motion,
+FT,Full Term,
+FTD,full therapeutic dose,
+FWB,Full Weight bearing,
+FTSG,full-thickness skin graft,
+FESS,Functional endoscopic sinus surgery,
+FIM,functional index measure,
+fMRI,Functional magnetic resonance imaging,
+FRC,functional residual capacity,
+GB,Gallbladder,
+GOAT,Galveston Orientation and Amnesia Test,
+GIFT,Gamete Intrafallopian Transfer,
+GGT,Gamma glutamyl transferase,
+GGTP,Gamma glutamyl transpeptidase,
+GABA,Gamma-aminobutyric acid,
+GIP,Gastric Inhibitory Peptide,
+Gtube,Gastric tube,
+GERD,Gastro Esophageal Reflux Disease,
+GIST,Gastrointestinal stromal tumor,
+GI/GIT,Gastrointestinal/Gastrointestinal Tract,
+GT,Gastrostomy Tube,
+GA,General Anesthesia/Gestational Age,
+GAD,Generalized  Anxiety Disorder,
+GENU,Genitourinary,
+GU,Genitourinary,
+GDM,Gestational Diabetes Mellitus,
+GCA,Giant cell arteritis,
+GCT,Giant Cell Tumor,
+GPC,Giant papillary conjunctivitis,
+GCS,Glasgow Coma Scale,
+glc,glaucoma,
+GAF,Global Assessment of Functioning,
+GDD,global developmental delay,
+GBM,Glomerular basement membrane,
+GFR,Glomerular Filtration Rate,
+GN,Glomerulonephritis,
+GLP,Glucagon-Like Peptide,
+G6PD,Glucose 6-Phosphate Dehydrogenase,
+GTT,Glucose Tolerance Test,
+GLUT,Glucose Transporter,
+GOT,Glutamic-oxalacetic transaminase,
+GPT,Glutamic-pyruvic transaminase,
+GA1,Glutaric aciduria type 1,
+GTN,Glyceryl Trinitrate,not to be used for prescribing medications
+GSD,Glycogen Storage Disease,
+HbA1C,Glycosylated Hemoglobin,
+Au,gold,
+GnRH ,"Gonadorelin, gonadotropin-releasing hormone",
+GnRH,Gonadotropin Releasing Hormone,
+GC,Gonococcus,
+GVL,graft versus lymphoma,
+GVHD,Graft Vs. Host Disease,
+gm.,Gram,
+GM-Stain,Gram Stain,
+G-CSF; GCSF,Granulocyte - Colony Stimulating Factor,
+GM-CSF,Granulocyte Macrophage-Colony Stimulating factor,
+GD,Graves’ Disease,
+G,Gravida,
+GH,Growth Hormone,
+GHRF,Growth Hormone Releasing Factor,
+GHRH,Growth Hormone Releasing Hormone,
+GDP,Guanosine diphosphate,
+GMP,Guanosine monophosphate,
+GBS,Guillain-Barre syndrome,
+gtt.,Gutta (Drop),
+GP,Gutta Percha,
+GYN,gynecology,
+HELLP,"Haemolysis, Elevated Liver Enzymes, & Low Platelet Count",
+HACEK,Haemophilus actinobacillus cardiobacterium eikenella and kingella,
+Hib,Haemophilus Influenza Type B,
+HCL,Hairy cell leukemia/hydrochloride,
+HAMD,Hamilton Rating Scale for Depression,
+HPS,Hantavirus pulmonary syndrome,
+H-rod,Harrington Rod,
+HC,Head Circumference,
+HEENT,"Head, Eyes, Ears, Nose, Throat",
+HALE,Health-adjusted life expec tancy,
+HA,hearing aids,
+HB,Heart block,
+HF,heart failure,
+HME,Heat Moisture Enchanger,
+HMEF,Heat Moisture Enchanging Filter,
+Ht.,Height,
+H&M,Hematemesis and melena,
+Hema,Hematest - e.g. Hema (-) - fecal occult blood,
+Hct,hematocrit,
+heme,hematologic,
+H&E,"Hematoxylin and eosin, a standard tissue stain",
+Hgb,Hemoglobin,
+HbA,Hemoglobin A (c ommonest type of hemoglobin),
+H&H,Hemoglobin and hematocrit,
+SS,Hemoglobin SS (HbSS) - in Sickle-cell disease = SS disease,
+HND,Hemolytic disease of the new born,
+HUS,Hemolytic Uremic Syndrome,
+HLH,Hemophagocytic lymphohistiocytosis,
+HSC,hemotopoetic stem cell,
+HSP,Henoch-Schönlein Purpura,
+heplock,heparin lock,
+HIT,heparin-induced thrombocytopenia,
+HepA,Hepatitis A Vaccine,
+HAV,Hepatitis A virus,
+HAVAb,Hepatitis A Virus Antibody,
+HAV Ag,Hepatitis A Virus Antigen,
+HAA,Hepatitis Associated antigen,
+HBcAb,Hepatitis B Core Antibody,
+HBcAg,Hepatitis B Core Antigen,
+HBIG,Hepatitis B immunoglobulin,
+HBsAb,Hepatitis B Surface Antibody,
+HBsAg,Hepatitis B Surface Antigen,
+HepB,Hepatitis B Vaccine,
+HBV,Hepatitis B virus,
+HBeAb,Hepatitis Be Antibody,
+HBeAg,Hepatitis Be Antigen,
+HCV,Hepatitis C Virus,
+HDV,Hepatitis D Virus,
+HEV,Hepatitis E Virus,
+HGV,Hepatitis G virus,
+HCC,Hepatocellular carcinoma,
+HJR,hepatojugular reflux,
+HSM,hepatosplenomegaly,
+HAE,Hereditary angioedema,
+HANE,Hereditary Angioneurotic Edema,
+HHT,Hereditary hemorrhagic telangiec tisia,
+HMSN,Hereditary motor sensory neuropathy,
+HNPCC,Hereditary nonpolyposis colorectal cancer,
+HSV,Herpes Simplex Virus,
+HZV,Herpes Zoster (shingles) Vaccine,
+Hz,Hertz (Cycles Per Second),
+HBP,high blood pressure,
+HDL,High Density Lipoprotein,
+HDMTX,High Dose Methotrexate,Not to be used in writing medication orders
+HDMTX-CF,High Dose Methotrexate + Calcium Folinate,Not to be used in writing medication orders
+HFJV,high frequency jet ventilation,
+HFOV,High -Frequency Oscillatory Ventilation,
+HGSIL,High grade squamous intraepithelial lesion,
+HSIL,High grade squamous intraepithelial lesion,
+HHFM,High Humidity Face Mask,
+HPF,High Power Field,
+HRPCM,high risk primary cutaneous melanoma,
+HTO,High Tibial Osteotomy,
+HACE,High-altitude cerebral edema;Hepatic artery chemotherapy/embolization,
+HAPE,High-altitude pulmonary edema,
+HAART,Highly active anti-aetroviral therapy,
+HKAFO,Hip Knee Ankle Foot Orthosis,
+Hx,History,
+H & P,History And Physical,
+HPI,History Of Present Illness,
+HxPI,History of Present Illness,
+HD,Hodgkin's Disease,
+HRT,Hormone Replacement Therapy,
+hr,Hour,
+HCG,Human Chorionic Gonadotropin,
+HHV,Human herpesvirus,
+HIV,Human Immunodeficiency Virus,
+HLA,Human Leukocyte Antigen,
+HMG,Human Menopausal Gonadotropin,
+HMF,Human Milk Fractions/fortifiers,
+HPV,Human papillomavirus,
+HTLV-1,human T-cell leukemia virus type 1,
+HTLV,Human T-lymphotropic virus,
+HMD,Hyaline Membrane Disease,
+Vit B12,Hydoxy/cyano-cobolamine,
+pH,hydrogen ion concentration,
+H202,Hydrogen Peroxide,
+HETE,Hydroxyeicosatetraenoic acid,
+HPETE,Hydroxyeicosatetraenoic acid,
+HES,Hydroxyethyl starch/hypereosinophil syndrome,
+HIE,Hyper Immunoglobuline E (Hyper IgE),
+HIM,Hyper Immunoglobuline m (Hyper IgM),
+HYPERAL,Hyperalimentation,
+HBO,Hyperbaric Oxygen (therapy),
+HIDS,Hyper-IgD (and periodic fever) syndrome,
+HHH,Hyperornithinemia-Hyperammonemia-Hypercitrullinuria,
+HTN,Hypertension,
+HCM,Hypertrophic cardiomyopathy,
+HOCM,Hypertrophic Obstructive Cardiomyopathy,
+HPOA,Hypertrophic pulmonary osteoarthropathy (clubbing),
+HLHS,Hypoplastic left heart syndrome,
+HGPRTase,Hypoxanthine-guanine phosphoribosyl transferase,
+HSG,Hystero-Salpingo-Gram,
+IBW,Ideal Body Weight,
+IHMO,idiopathic hypertrophic migrating osteoporosis,
+IHSS,idiopathic hypertrophic subaortic stenosis,
+IPF,Idiopathic pulmonary fibrosis,
+IFOS,Ifosfamide,Not to be used in writing medication orders
+ICBG,Iliac Crest Bone Grafting,
+ITP,Immune Thrombocytopenic Purpura,
+IF,Immunofluorescence,
+Ig,Immunoglobulin,
+IgA,Immunoglobulin A,
+IgD,Immunoglobulin D,
+IgE,Immunoglobulin E,
+IgG,Immunoglobulin G,
+IgM,Immunoglobulin M,
+immuno,immunologic,
+IGT,Impaired Glucose Tolerance,
+ICG,Impedance cardiography,
+IPG,impedance plethysmography,
+ICD,Implantable Cardioverter Defibrilator,
+Imp,Impression,
+IVF,In Vitro Fertilization,
+IPV,Inactivated polio vaccine (injectable),
+IS,Incentive Spirometry,
+I,Incisal,
+I&D,Incision And Drainage,
+ILV,independent lung ventilation,
+IHA,Indirect Hemagglutination,
+IDPT,Indirect Pulp Therapy,
+IRDS,Infant Respiratory Distress syndrome,
+ID,infectious disease,
+IVC,Inferior Vena Cava,
+IDC,Infiltrating ductal carcinoma,
+IBD,Inflammatory bow el disease,
+IBC,Inflammatory breast cancer,
+IPP,Inflatable penile prosthesis,
+IH,Inhalation,
+iNO,inhaled Nitric Oxide,Not to be used in writing medication orders
+Inj,injection,
+inpt.,inpatient,
+IPPA,"Inspection, palpatoin, percussion, auscultation",
+IPAP,inspiratory positive airway pressure,
+Ti,Inspiratory Time,
+I:E,Inspiratory to Expiratory Ratio,
+IDDM,Insulin Dependent Diabetes Mellitus,
+IGF1,Insulin Line Growth Factor 1,
+IRS,Insulin Receptor Substrate,
+ITT,Insulin Tolerance Test,
+I&O,Intake And Output,
+ICIS,Integrated Clinical Information System,
+IQ,Intelligence Quotient,
+IMRT,intensity modulated radiation therapy,
+ICU,Intensive Care Unit,
+ICS,Intercostal Space,
+IFN,Interferon,Not to be used in writing medication orders
+INF,Interferon(-α/- β/-γ ),Not to be used in writing medication orders
+IL-,Interleukin-(number),
+IMF,Intermaxillary Fixation,
+ICN,Intermediate Care Nursery,
+IDL,Intermediate Density Lipoprotein,
+IRM,Intermediate Restorative Material,
+IRPCM,intermediate risk primary cutaneous melanoma,
+IMV,Intermittent mandatory ventilation - Mechanical ventilation,
+IPD,Intermittent Peritoneal Dialysis,
+IPPB,Intermittent Positive-Pressure Breathing,
+IPPV,Intermittent positive-pressure ventilation,
+ICA,Internal Carotid Artery,
+IJ,internal jugular,
+IR,Internal Rotation,
+ICD-10,International Classification of Diseases-10th Revision,
+INR,International Normalized Ratio,
+IPSS,International Prostatic Symptoms score,
+ICSH,Interstitial Cell Stimulating Hormone,
+ILD,Interstitial lung disease,
+ISW,Interstitial Water,
+IUPC,Intra Uterine Pressure Catheter,
+IA,Intra-articular,
+ICCE,Intracapsular cataract extraction,
+IC,Intracardiac,
+ICW,Intracellular Water,
+ICH,Intracranial Hemorrhage or intracerebral hemorrhage,
+ICP,Intracranial Pressure,
+ICSI,Intra-Cytoplasmic Sperm Injection,
+IDPN,Intradialytic parenteral nutrition,
+IDET,intradiscal electrothermal therapy,
+IM,Intramuscular,
+IOL,intraocular lens,
+IOP,Intraocular Pressure,
+IVRO,Intraoral Vertical Ramus Osteotomy,
+IABP,Intraortic Balloon Pump,
+IO,intraosseous,
+IRMA,Intraretinal Microangiopathy,
+IT,Intrathecal,
+IUCD,intrauterine contraceptive device,
+IUD,intrauterine device,
+IUFD,IntraUterine Foetal Demise,
+IUGR,Intrauterine Growth Retardation,
+IUI,Intrauterine insemination,
+IUP,Intrauterine pregnancy,
+IUS,IntraUterine System,
+IVUS,Intravascular ultrasound,
+IV,intravenous,
+IV-DSA,Intravenous digital subtraction angiography,
+IVIG,Intravenous Immune Globulin,
+IVPB,Intravenous piggyback,
+IVP,Intravenous Pyelogram,
+IVSK,Intravenous Streptokinase,Not to be used in writing medication orders
+IVU,Intravenous Urography,
+IVH,Intraventricular Hemorrhage,
+iPEEP,intrinsic positive end expiratory pressure,
+ISA,Intrinsic Sympathomimetic Activity,
+INVER,Inversion,
+IODO,Iodoform Gauze,
+I125,Iridium 125,
+Fe,Iron,
+IRRIG,Irrigation,
+IBS,Irritable bow el syndrome,
+IHD,Ischemic Heart Disease,
+IAPP,Islet Amyloid Polypeptide,
+ICAb,Islet Cell Antibody,
+IVA,Iso valeric acidemia,
+INH,Isoniazid,Not to be used in writing medication orders
+JP,Jackson-Pratt,
+JEV,Japanese enc ephalitis virus,
+J-tube,Jejunal tube,
+JJ stent,JJ stent,
+JCV,John Cunningham virus,
+J,joule,
+JVD,jugular venous distention,
+JVP,Jugular Venous Pressure,
+JT,junctional tachycardia,
+JCA,Juvenile Chronic Arthritis,
+JIA,Juvenile idiopathic arthritis,
+JODM,juvenile onset diabetes mellitus,
+JRA,Juvenile Rheumatoid Arthritis,
+JXg,juvenile xanthogranuloma,
+JGA,Juxtaglomerular Apparatus,
+KCCT,Kaolin cephalin clotting time,
+KSHV,Kaposi's sarcoma-associated herpesvirus,
+KVO,Keep Vein Open,
+KUB,"Kidneys, Ureter, Bladder",
+kCal,Kilocalorie,
+kg,Kilogram,
+KHz,kilohertz,
+kJ,Kilojoules,
+Kv,kilovolt,
+K-wire,Kirschner Wire,
+KAFO,Knee Ankle Foot Orthosis,
+LUTS,L ower urinary tract symptoms,
+L&D,Labor & Delivery Room,
+Lab,Laboratory,
+LDH,Lactate Dehydrogenase,
+LR,Lactated Ringer'S Solution,
+LAF,laminar air flow,
+LPN,Laparoscopic Partial Nephrectomy,
+LRN,Laparoscopic Radical Nephrectomy,
+Cal,large calorie,
+LGA,Large For Gestational Age,
+LMP,Last Menstrual Period,
+lat,Lateral,
+Lat Ceph,Lateral Cephalometric X-Ray,
+LF I,Le Fort I,
+LF II,Le Fort II,
+LF III,Le Fort III,
+Pb,lead,
+LD,Learning Disabilities,
+LHON,Lebers Heredtary optic Neuropathy,
+LSVT,Lee Silverman Voice Therapy,
+Lt,Left,
+LABBB,Left anterior bundle branch block,
+LAD,Left Anterior Descending (Coronary) Artery,
+LAFB,Left Anterior Fascicular Block,
+LAH,Left anterior hemiblock,
+LAHB,Left anterior hemiblock,
+LAE,Left Atrial Enlargement,
+LA,Left Atrium,
+LBBB,Left Bundle Branch Block,
+LCX,Left Circumflex Coronary Artery,
+os,"Left eye from Latin, oculus sinister",
+L > R,left greater than right,
+LIF,Left Iliac Fossa,
+LIMA,Left Internal Mammary Artery,
+LLB,Left Lateral Bend,
+LLR,Left Lateral Rotation,
+LLE,left lower extremity,
+LLL,Left Lower Lobe,
+LMSA,Left Main Stem Artery,
+LML,left middle lobe,
+LOA,Left Occipitoanterior,
+LOP,Left Occipitoposterior,
+LOT,left occiput transverse,
+LOM,Left Otitis Media,
+LPFB,Left Posterior Fosicular Block,
+LUE,left upper extremity,
+LUL,Left Upper Lobe,
+LUQ,Left Upper Quadrant,
+LV,Left Ventricle,
+LVEDP,Left Ventricle End Diastolic Pressure,
+LVAD,Left Ventricular Assist Device,
+LVEF,Left Ventricular Ejection Fraction,
+LVE,Left Ventricular Enlargement,
+LVF,Left ventricular failure,
+LVH,Left Ventricular Hypertrophy,
+LVIDd,left ventricular internal dimension in diastole,
+LVOT,Left Ventricular Outflow Obstruction,
+LVSWI,Left Ventricular Stroke Work Index,
+LWBS,Left without being seen,
+LLD,Leg Length Discrepancy,
+LCP,Legg-Calve-Perthes,
+LOS,Length of stay,
+LMM,lentigo maligna melanoma,
+LAP,Leukocyte Alkaline Phosphate/laprascopic,
+L-DOPA,Levo-DihydrOxyPhenylAlanine,
+LPP,Lichen Planopilaris,
+L&A,Light And Accommodation,
+L,Lingual,
+liq,liquid,
+LN2,liquid nitrogen cryotherapy,
+LCD,Liquor Carbonis Detergens (Coal Tar Solution),
+Ltr.,Liter,
+Li,Lithium,
+LFTs,Liver Function Tests,
+LSK,"Liver, Spleen, Kidneys",
+LRD,Living related donor,
+LCIS,Lobular carcinoma in situ,
+CCNU,Lomustine,
+LATS,Long Acting Thyroid Stimulator,
+LCHAD,Long chain 3 Hydroxyacyl CoenzymeA dehydrogenase,
+LOC,Loss of consciousness,
+LBP,Low Back Pain,
+LBW,Low Birth Weight,
+LCS,Low Continuous Suction,
+LDL,Low Density Lipoprotein,
+LGSIL,Low grade squamous intraepithelial lesion,
+LMWH,low molecular weight heparin,
+LRPCM,low risk primary cutaneous melanoma,
+LE,Lower Extremity,
+LLQ,Lower Left Quadrat,
+LLHA,Lower Lingual Holding Arch,
+LSCS,Lower Segment Caesarian Section,
+L (1 to 5),Lumbar ( e.g. L2 fracture),
+LP,Lumbar Puncture,
+L1-5,"Lumbar Vertebra 1, 2, Etc",
+LS,Lumbosacral,
+LSO,Lumbosacral Orthosis,
+LPVS,lung protective ventilation strategy,
+LH,Luteinizing Hormone,
+LHRH,Luteinizing Hormone Releasing,
+L/N; LN,Lymph node,
+LAG,lymphangiogram,
+LPD,lymphoproliferative disorder,
+LVI,Lymphovascular invasion,
+Mφ,Macrophage,
+MgSO4,Magnesium sulfate ,Not to be used in writing medication orders
+MRA,Magnetic Resonance Angiography,
+MRCP,Magnetic resonance cholangiopancreatography,
+MRI,Magnetic Resonance Imaging,
+MDD,Major Depressive Disorder,
+M,Male,
+MMV,Mandatory Minute Ventilation,
+MPA,Mandibular Plan Angle,
+MROP,Manual Removal Of Placenta,
+MSUD,Maple Syrup Urine Disease,
+MRD,matched related donor,
+MUD,matched unrelated donor,
+MODY,Maturity Onset Diabetes Of The Young,
+MMEFR,Maximal Mid Expiratory Flow Rate,
+max,Maximum,
+MIF,maximum inspiratory force,
+MSCD,Maximum Suction Catheter Depth,
+Tmax,maximum temperature,
+MAP,Mean Arterial Pressure,
+MCH,Mean Corpuscular Hemoglobin,
+MCHC,Mean Corpuscular Hemoglobin Concentration,
+MCV,Mean Corpuscular Volume,
+MLU,Mean length of utterance,
+MPV,Mean platelet volume,
+MPAP,Mean Pulmonary Artery Pressure,
+MMR,"Measles, Mumps, Rubella",
+MV,Mechanical Ventilation,
+MOI,mechanism of injury,
+MOPP,Mechlorethamine/ Vincristine/Procarbazine/Prednisone,Not to be used in writing medication orders
+Mec,Meconium,
+MAS,Meconium Aspiration Syndrome,
+Med,Medial,
+MEDLINE,Medical Literature Analysis and Retrieval System Online,
+MRN,Medical Record Number,
+MCAD,Medium Chain Acyl Coa Dehydrogenase Deficiency,
+MCT,Medium Chain Triglycerides,
+MTC,Medullary Thyroid Ca,
+MHz,megahertz,
+MSH,Melanocyte-stimulating hormone,
+MPGN,Membranoproliferative Glomerulonephritis,
+MN,Membranous Nephropathy,
+MPSV4,Meningococcal Polysaccharide (Groups A/C/Y and W-135),
+MSE,Mental status examination,
+6-MP,Mercaptopurine,Not to be used in writing medication orders
+MCGN,Mesangiocapillary Glomerulonephritis,
+MB2,Mesial Buccal 2ry Canal,
+mRNA,Messenger Rna,
+MCP,Metacarpophalangeal (Joint),
+MIBG,Meta-iodobenzylguanidine,
+mets,Metastatic,
+MTP,Metatarsophalangeal (Joint),
+m2,Meter Square,
+MDI,Metered Dose Inhaler,
+MARSA,Methicillin- and aminoglycoside-resistant Staphylococcus aureus,
+MTX,Methotrexate,Not to be used in writing medication orders
+MVAC,Methotrexate Vinblastine Adriamycin Cisplatin,Not to be used in writing medication orders
+MMA,Methylmalonic Acidemia,
+MRSA,Metricillin Resistance Staph Auerus,
+MA,Microaneurysms,
+MAHA,Microangiopathic hemolytic anemia,
+mcg,Microgram,
+MLS,MicroLaryngoScopy,
+Scope,Microscope or endoscope,
+MESA,Microscopic Exploration for Sperm Aspiration,
+Micro-TESE,Microsurgical testicular sperm extraction,
+MCUG,Micturating cystourethrogram,
+MCL,Midcostal Line,
+mid,middle,
+MCA,Middle Cerebral Artery,
+MSU,Mid-Stream Urine,
+MPH,miles per hour,
+MOM,Milk Of Magnesia,
+mCi,Millicurie,
+mEq,milliequivalent,
+mg,Milligram,
+mL,Milliliter,
+mm,Millimeter,
+mmol,Millimole,
+MEV,Million Electron Volts,
+MU,Million Units,
+mOsm,Milliosmoles,Not to be used in writing medication orders
+MLT,Minimal Leak Technique,
+mrd,minimal residual disease,
+MBC,minimum bacteriocidal concentration,
+MIC,Minimum inhibitory concentration,
+MLD,Minimum Lethal Dose,
+MMPI,Minnesota Multiphasic Personality Inventory,
+min,Minute,
+MISC,Miscellaneous,
+MtDNA,Mitochondrial DNA,
+MELAS,Mitochondrial Encephalopathy;Lactic Acidosis;Stroke like episode,
+MNGIE,Mitochondrial neurogastrointestinal encephalopathy,
+MMC,Mitomycin C,Not to be used in writing medication orders
+MAC,Mitral Annular Calcification,
+MBV,Mitral Balloon Valvoplasty,
+MR,Mitral Regurgitation,
+MRO,Mitral Regurgitation Orifice,
+MVD,Mitral Valve Disease,
+MVP,Mitral Valve Prolapse,
+MVRep,Mitral Valve Repair,
+MVR,Mitral Valve Replacement,
+MCTD,Mixed Connective Tissue Disease,
+MLC,Mixed lymphocyte culture,
+CVO2,mixed venous oxygen content,
+SVO2,Mixed Venous Oxygen Saturation,
+MBS,Modified Barium Swallow,
+MAO,Monoamine Oxidase,
+MAO-I,Monoamine oxidase inhibitor,
+MGUS,Monoclonal gammopathy of undetermined significance (unknown),
+Mono,Monocytes,
+MADRS,Montgomery-Asberg Depression Rating Scale,
+M&M,Morbidity And Mortality,
+MVA,Motor Vehicle Accident,
+MGJ,Mucogingival Junction,
+MPS,Mucopolysaccharidosis,
+MDV,Multi-dose Vial,
+MNG,Multinodular Goitre,
+MOTC,Multi-Organ Transplant Center,
+MDR,Multiple Drug Resistance,
+MEN,Multiple Endocrine Neoplasia,
+MOF,multiple organ failure,
+MS,multiple sclerosis,
+MSD,Multiple Sulfatase deficiency,
+MSOF,multiple system organ failure,
+MRG,"Murmurs, rubs, and gallops (see heart sounds)",
+OKT3,Muromonab – Cd3 - change to CD3,
+MIBC,Muscle Invasive Bladder cancer,
+MSK,Musculoskeletal,
+MMF,Mycophenolate Mofetil,Not to be used in writing medication orders
+MF,Mycosis Fungoides,
+MDS,myelodysplastic syndrome,
+MPD(s),Myeloproliferative disease(s),
+MI,Myocardial Infarction,
+MERRF,Myoclonic Epilepsy With Ragged Red Fibers,
+MFR,myofascial release,
+NAGS,N-Acetylglutamate synthetase,
+NB-UVB,Narrow Band Ultra Violet B,
+NC,Nasal Cannula,
+NG,Nasogastric,
+NGT,Nasogastric Tube,
+NPA,Nasopharyngeal aspirate,
+NP,Nasopharynx,
+NT,Nasotracheal,
+NTT,Nasotracheal tube (see intubation),
+NIH,National Institute of Health,
+NMDP,national marrow donor program,
+NK,natural killer,
+N/V/D,"nausea, vomiting, and diarrhea",
+N/V,Nausea/Vomiting,
+NIRS,Near infrared spectroscopy,
+Neb,Nebuliser,
+NEC,Necrotizing Enterocolitis,
+neg,Negative,
+NIF,Negative Inspiratory Force,
+NND,Neonatal Death,
+NICU,Neonatal Intensive Care Unit,
+NVD,Neovascularization at the disc,
+NVI,neovascularization of the Iris,
+NVE,Neovascularization of the retina elsewhere,
+NDI,Nephrogenic Diabetes Insipidus,
+NSS,Nephron sparing surgery,
+NCS,Nerve conduction study,
+NCV,Nerve Conduction Velocity,
+NARP,Neuropathy;Ataxia;Retinitis Pigmentosa,
+NSE,Neurospecific enolase,
+Neut,Neutrophil granulocytes,
+NYHA,New York Heart Association,
+NBS,newborn screening,
+NiTi,Nickel Titanium,
+NO,Nitric oxide,Not to be used in writing medication orders
+N,Nitrogen,Not to be used in writing medication orders
+NTG,Nitroglycerin,Not to be used in writing medication orders
+N2O,Nitrous Oxide,Not to be used in writing medication orders
+NAD,No apparent distress,
+NKA,No known Allergy,
+NKDA,No known drug allergies,
+NLP,No light perception,
+NSPC,No Space Power Chain,
+NHR,Noise to Harmonic Ratio,
+NIV,Non -Invasive Ventilation,
+NKHC,Non Ketotic Hyperosmolar Coma,
+NPDR,Non proliferative diabetic retinopathy,
+non rep,Non Repetatur (Do Not Repeat),
+NWB,Non Weightbearing,
+NBTE,Nonbacterial thrombotic endocarditis,
+NGU,Non-gonococcal urethritis,
+NHL,Non-Hodgkin’s lymphoma,
+NIDDM,Non-Insulin Dependent Dm,
+NIM,Non-invasive Monitor,
+NIPPV,Non-Invasive Positive Pressure Ventilation,
+NREM,Non-Rapid Eye Movement,
+NRM,Non-Rebreather Mask,
+NSCLC,Non-Small Cell Lung Cancer,
+NSCC,Non-squamous-cell carcinoma,
+NSTEMI,Non-ST elevation myocardial infarction,
+NSAID,Nonsteroidal Anti-Inflammatory  Drug,
+NST,Non-Stress Test (see cardiotocograph),
+NSVT,Nonsustained ventricular tachycardia,
+Nor–epi/NE,Norepinephrine,Not to be used in writing medication orders
+Nl,Normal,
+NNN,Normal Newborn Nursery,
+NPH,Normal pressure hydrocephalus,
+NS,Normal Saline,
+NSR,Normal Sinus Rhythm,
+NSVD,Normal Spontaneous Vaginal Delivery,
+N/A,Not Applicable,
+NOS,not otherwise specified,
+NPO,nothing by mouth,
+NMR,Nuclear magnetic resonance,
+NM,nuclear medicine,
+No.,Number,
+NCA,Nurse controlled analgesia,
+OCD,Obsessive-compulsive disorder,
+OB-Gyn,Obstetrics and gynecology,
+OSA,Obstructive sleep apnea,
+OFC,occipitofrontal circumference,
+OA,Occiput anterior,
+O,Occlusal,
+OT,Occupational Therapy,
+OPG,oculoplethysmograph,
+OKC,Odontogenic Keratocyst,
+OKT,Odontogenic Keratocystic Tumour,
+oint ,ointment,
+OGN,oligonucleotide,
+hemi,"one half (e.g. hemiparesis, hemiplegia)",
+ORIF,Open Reduction And Internal Fixation,
+OR,Operating Room,
+OPTH,ophthalmic,
+ODD,Oppositional defiant disorder,
+OCG,Oral cholecystogram,
+OCP,Oral contraceptive pill,
+OGT,Oral Gastric Tube,
+OGTT,Oral glucose tolerance test,
+OPV,Oral polio Vaccine,
+OC,Orale contraceptives,
+OBS,Organic brain syndrome,
+OAT,Ornithine Amino Transferase,
+OTCD,Ornithine transcarbamoylase deficiency,
+OP,oropharynx,
+Ortho,Orthodontics,
+OG,Orthognathic,
+Ortho Surg,Orthopedic Surgery,
+osm,Osmolarity,
+Osteo,Osteomyelitis,
+OM,Otitis Media,
+OAE,Otoacoustic Emissions,
+ORL,OtoRhinoLaryngology,
+oz,Ounce,
+OOB,Out Of Bed,
+OOP,Out Of Plaster,
+OPD,Outpatient Department,
+O & P,Ova And Parasites,
+OHSS,Ovarian Hyper-Stimulation Syndrome,
+OJ,Over Jet,
+OAB,Overactive bladder,
+OB,Overbite,
+OTC,Over-the-counter drug,
+OPU,Ovum Pick-up/oocyte pick-up,
+ORSA,Oxacillin-resistant staphylococcus aureus,
+O2,Oxygen,
+VO2,Oxygen Consumption,
+O2 Sat,Oxygen Saturation,
+OCT,Oxytocin Challenge Test,
+PRBC,Packed red blood cells,
+P,Palatal,
+PPK,Palmoplantar Keratoderma,
+PRP,Panretinal photocoagulation,
+Pap smear,Papanicolaou Smear,
+PUNLMP,Papillary Urothelial Neoplasm of low malignant potential,
+HPV4,"Papillomavirus (Types 6, 11, 16, 18) Vaccine (Human, Recombinant), Human Papilloma Virus quadrivalent",
+PLS,Papillon Lefevre Syndrome,
+PABA,Para-Aminobenzoic Acid (Vitamin B10),Not to be used in writing medication orders
+PTH,Parathyroid hormone,
+PAT,Paroxysmal Atrial Tachycardia,
+PNH,Paroxysmal nocturnal hemoglobinuria,
+PPV,Pars plana vitrectomy,
+PACO2,Partial Arterial Carbon Dioxide Pressure,
+PLV,partial liquid ventilation,
+PCO2,Partial Pressure of Carbon Dioxide,
+PAO2,partial pressure of oxygen in arterial blood,
+PTT,Partial thromboplastin time,
+ppm,parts per million,
+PMV,Passy-Muir speaking valve,
+PMHx,Past medical history,
+PSH,past social history,
+PDA,patent ductus arteriosus,
+PFO,Patent foramen ovale,
+PATH,Pathology,
+PCA,Patient Controlled Analgesia,
+Pt.,"Patient, from Latin patiens, meaning ""one who endures""",
+PEF,Peak expiratory flow,
+PEFR,Peak expiratory flow rate,
+PIP,peak inspiratory pressure,
+Peds,Pediatric,
+PALS,Pediatric Advanced Life Support,
+PGCS,Pediatric Glasgow Coma Scale,
+PEG-GCSF,PEG-Filagrastrim,Not to be used in writing medication orders
+PEG-Asp,Pegylated Asparignase,Not to be used in writing medication orders
+PEG-IFN,Pegylated Interferon,
+PID,pelvic inflammatory disease,
+PKP,penetrating keratoplasty,
+PUD,Peptic ulcer disease,
+PR,Per rectum,
+PV,Per vagina,
+PEG,Percutaneous endoscopic gastrostomy,Not to be used in writing medication orders
+PESA,Percutaneous epididymal sperm aspiration,
+PCNL,Percutaneous Nephrolithotomy,
+PTHC,Percutaneous transhepatic cholangiography,
+PTCA,percutaneous transluminal coronary angioplasty,
+PUBS,percutaneous umbilical blood sampling,
+PICC,Percutaneously inserted central catheter,
+Q,Perfusion,
+PELVIS,"Perinatal hemangioma, External genitalia malformations, Lipomyelomeningocele, Vesicorenal abnormalities, Imperoforate anus ",
+P-ANCA,perinuclear antineutrophil cytoplasmic antibody,
+PAS,periodic acid-schiff,
+Perio,Periodont(al) (itis) (ics),
+PAD,Peripheral artery disease - Peripheral artery occlusive disease,
+PBSCR,Peripheral Blood Stem Cell Reconstruction,
+PBSCT,peripheral blood stem cell transplant,
+PBSC,peripheral blood stem cells,
+PIV,peripheral intravenous,
+PPN,peripheral parenteral nutrition,
+PSCT,peripheral stem cell transplant,
+PTCL,peripheral T-cell lymphoma,
+IP,Peritoneal (intraperitoneal),
+PPE,Personal Protective Equipment,
+PIOL,phakic intraocular lens,
+PK,pharmacokinetics,
+Pharm,pharmacy,
+PKU,Phenylketonuria (PKU card - Guthrie test),
+PSP,Phenylsulphtalein,
+PO4,phosphate,Not to be used in writing medication orders
+PDT,Photodynamic Therapy,
+PRK,photorefractive keratectomy,
+PTK,phototherapeutic keratectomy,
+PE,physical examination; pulmonary embolism; tubes polyethylene tubes,
+PT/OT,physical therapy/occupational therapy,
+POE,physician order entry,
+PILO,pilocarpine,Not to be used in writing medication orders
+PLEVA,pityriasis lichenoides et varioliformis acuta,
+PAI-1,Plasminogen activator inhibitor 1,
+plt,platelet,
+PDGF,Platelet derived growth fac tor,
+PltRP,Platelet Rich Plasma,
+Pu,plutonium,
+PCV13,Pneumococcal Conjugate 13- valent,
+PPSV23,Pneumococcal Polysaccharide (Polyvalent),
+PCP,Pneumocystis carinii pneumonia,
+pneumo,pneumothorax,
+POCT,point of care testing,
+PAN,Polyarteritis Nodosa,
+PKD,Polycystic kidney disease,
+PCOS,Poly-Cystic Ovarian Syndrome,
+PCR,polymerase chain reaction,
+PMN,"Polymorphonuclear leukocytes, i.e., Neutrophils",
+PFM,Porcelain Fused to Metal,
+PWS,Port Wine Stain,
+PANSS,Positive and Negative Syndrome Scale,
+PEEP,positive end-expiratory pressure,
+PET,Positron-emission tomography (cerebral metabolic scan),
+PACU,Post Anesthesia Care Unit,
+PCT,Post Coital Test,
+PAR,Postanesthesia Recovery,
+PCS,Post-concussion syndrome,
+PCL,Posterior cruciate ligament,
+PHACES,"Posterior fossa abnormalities, Hemangioma, Arterial cerebral anomalies, Cardiac deffect, eye anamolies",
+PSC,Posterior Sclerotic Cataract,
+PVD,Posterior vitreous detachment,
+PA,Postero-Anterior,
+Post-op,postoperative,
+POD,postoperative days,
+PPTL,Post-partum tubal ligation,
+PTLD,post-transplant lymphoproliferative disorders,
+PTSD,Posttraumatic stress disorder,
+PTSS,Posttraumatic stress syndrome - posttraumatic stress disorder,
+K,Potassium,
+KCI,Potassium Chloride,
+lb; LB,Pound (mass),
+PSI,pounds per square inch,
+PIH,pregnancy-induced hypertension,
+PGD,Preimplantation genetic diagnosis,
+PAC,Premature Atrial Contractions,
+Premie,Premature infant,
+PVC,premature ventricular contraction,
+PMS,premenstrual syndrome,
+Pre Op,Pre-operative,
+prep,preparation,
+Rx,Prescription,
+PF,preservative free,
+PFNS,preservative free normal saline,
+PCV,pressure control ventilation,
+PCV+,pressure control ventilation with pressure support,
+PC/PS,pressure control with pressure support,
+PCIRV,pressure controlled inverse ration ventilation,
+PO2,pressure of oxygen,
+PRVC,pressure regulated volume control,
+PPROM,Preterm premature rupture of membranes,
+PCNSL,Primary CNS (c entral nervous system) lymphoma,
+POAG,Primary open angle glaucoma,
+PI,Principle Investigator,
+PMD,private medical doctor,
+PSS,Progressive systemic sclerosis - scleroderma,
+PDR,Proliferative diabetic retinopathy,
+PRIND,Prolonged reversible ischemic neurologic deficit,
+PAV,proportional assist ventilation,
+PSA,prostate specific antigen,
+Prosth,Prosthdonti(cs) (st),
+PKA,Protein kinase A,
+PBI,protein-bound iodine,
+PCC,Prothrombin Concentrate Complex (Beriplex),
+PT,prothrombin time,
+PPI,Proton pump inhibitor,
+PUVA,Psoralen UV A (photoc hemic al ultraviolet light A waves),
+Ps,Psoriasis,
+PASVR,pulmonary anomalous superior venous return,
+PAH,Pulmonary arterial hypertension,
+Pulm Art,Pulmonary Artery,
+PaOP,pulmonary artery occlusion pressure,
+PAP,Pulmonary Artery Pressure,
+PAWP,pulmonary artery wedge pressure,
+PBV,Pulmonary Balloon Valvuplasty,
+PCWP,Pulmonary capillary w edge pressure,
+PFT,Pulmonary function test - Spirometry,
+P2,pulmonic second sound,
+PDL,Pulse Dye Laser,
+PEA,Pulseless electrical activity,
+pd,pupillary distance,
+PPD,purified protein derivative (TB test),
+PZA,Pyrazinamide,
+PUO,Pyrexia of unknown origin,
+Vit B6,Pyridoxine,
+PCD,Pyruvate Carboxylase deficiency,
+PDH,Pyruvate dehydrogenase complex,
+PTS,Pyruvoyl tetrahydropterin synthase,
+QUAD,Quadrant,
+MCV4,Quadrivalent meningococcal conjugate vaccine,
+QoL,Quality of Life,
+QALY,Quality-adjusted life year,
+QFT-G,QuantiFERON-TB Gold,
+QIg,Quantitative Immunoglobulin,
+QNS,Quantity Not Sufficient,
+QS,Quantity Sufficient,
+qt,Quart,
+XRT,radiation therapy,
+RIO,Radical inguinal orchiectomy,
+I 131 or 131I,Radioactive iodine,
+RFA,Radiofrequency Abalation,
+RIA,Radio-Immune Assay,
+RIBA,Radioimmunoblotting assay,
+RN scan,Radionuclide Scan,
+ROM,Range Of Motion,
+REM,Rapid Eye Movements,
+RME,Rapid Modified Glass Lonomer,
+RPE,Rapid Palatal Expansion,
+RPR,Rapid Plasma Reagin (Test For Syphilis),
+RSI,Rapid sequence induction,
+RPGN,Rapidly Progressive Glomerulonephritis,
+RBVO,read back verbal order,
+RDA,Recommended Dietary Allowance,
+RPL,Recurrent Pregnancy Loss,
+RBC,Red Blood Cell,
+RDW,Red cell distribution width,
+RS cell,Reed-Sternberg Cell,
+RSD,Reflex Sympalhetic Dystrophy,
+REG,Regular,
+RRR,regular rate and rhythm,
+RAP,Relative Average Perturbation,
+RPD,Removable Partial Denture,
+RAS,Renal Artery Stenosis,
+RBF,Renal Blood Flow,
+RCC,Renal cell carcinoma,
+RPF,Renal Plasma Flow,
+RP,Renal Profile,
+RTA,Renal Tubular Acidosis,
+RVT,Renal Vein Thrombosis,
+REI,Reproductive Endocrinology & Infertility,Not to be used in writing medication orders
+RDC,Research Diagnostic Criteria,
+RAN,resident admit note,
+RESP,Respiration,
+RDS,Respiratory Distress Syndrome,
+RR,Respiratory Rate,
+RSV,Respiratory Syncytial Virus,
+RT,Respiratory Therapy,
+RFLP,Restriction fragment length polymorphism,
+Ret,Retainer,
+retic,reticulocyte,
+RD,Retinal Detachment,
+RB,Retinoblastoma,
+Vit A,Retinol,
+ROP,Retinopathy of Prematurity,
+RGP,Retrograde pyelography,
+RPLND,Retroperitoneal lymph node dissection,
+RTC,Return To Clinic,
+RT-PCR,Reverse transc riptase polymerase chain reaction,
+RT3,Reversed T3,
+ROS,Review Of Systems,
+RTS,Revised trauma score,
+RPM,revolutions per minute,
+RMS,Rhabdomyosarcoma,
+RRD,Rhegmatogenous retinal detachment,
+Rh,Rhesus factor,
+RHD,Rheumatic Heart Disease,
+RA,Rheumatoid Arthritis,
+RF,Rheumatoid Factor,
+Vit B2,Riboflavin,
+RNA,Ribonucleic Acid,
+RNP,Ribonucleoprotein,
+rt.,Right,
+RAE,Right Atrial Enlargement,
+RAD,Right Axis Deviation,
+RBBB,Right Bundle Branch Block,
+RCA,Right Coronary Artery,
+od,right eye,
+R > L,right greater than left,
+RIF,Right Iliac Fossa,
+RIMA,Right Internal Mammary Artery,
+RLE,Right lower extremity,
+RLL,right lower lobe,
+RLQ,Right Lower Quadrant,
+RML,Right Middle Lobe,
+ROA,Right Occiptoanterior,
+ROT,right occiput transverse,
+RPO,right posterior oblique,
+RUE,Right upper extremity,
+RUL,Right Upper Lobe,
+RUQ,Right Upper Quadrant,
+RV,Right Ventricle,
+RVOTO,Right Ventricle Outlet Tract Obstruction,
+RVOT,Right Ventricle Outlet/outflow Tract,
+RVAD,Right Ventricular Assist Device,
+RVH,Right Ventricular Hypertrophy,
+RVSWI,Right Ventricular Stroke Work Index,
+R,Roentgen (unit of radiation exposure),
+RCT,Root Canal Treatment,
+RV5,Rotavirus -pentavalent,
+R/O,Rule Out,
+SO,Sacral Orthosis,
+S (1-5),Sacral vertebrae,
+SIJ,Sacroiliac Joint,
+SVG,saphenous vein graft,
+S&C,Scale And Curettage,
+SANS,Scale for the Assessment of Negative Symptoms,
+SADS,Schedule for Affective Disorders and Schizophrenia,
+SC 70,Scleroderma 70 Antibody,
+SAD,Seasonal Affective Disorder,
+SK,Seborrheic Keratosis,
+SOM,Secretary or Serous Otitis Media,
+Segs,Segmented cells,
+Sz,Seizure,
+SERM,Selective Estrogen Receptor Modulator,
+SSRI,Selective serotonin reuptake inhibitor,
+Se,Selenium,Not to be used in writing medication orders
+SIB,Self Injurous Behavior,
+SMD,senile macular degeneration,
+SLNBx,sentinel lymph node biopsy,
+Seps,Separators,
+SCD,sequential compression device,
+STS,Serologic Test For Syphilis,
+SNRI,Serotonin-norepinephrine reuptake inhibitor,
+SGOT (AST),Serum glutamic oxaloacetic transaminase,
+SGPT (ALT),serum glutamic pyruvic transaminase,
+SIFE,Serum Immunofixation Electrophoresis,
+SPE/SPEP,Serum Protein Electrophoresis,
+SARS,Severe Acute Respiratory Syndrome,
+SAA,Severe Aplastic Anemia,
+SCID,Severe Combined Immunodeficiency,
+SHBG,Sex hormone-binding globulin,
+STD,Sexually Transmitted Disease,
+SCAD,Short chain Acyl CoenzymeA Dehydrogenase,
+STR,Short Tandem Repeats (Linkage Analysis),
+SOB,Shortness of Breath,
+SSS,Sick sinus syndrome,
+sig,"Signa (Mark, Write , Let It Be Labelled)",
+S&S,Signs and symptoms,
+SAPS II,Simplified acute physiology score,
+SNP,Single Nucleotide Polymorphism,
+SNP CGH,"Single nucleotide polymorphism, comperative genomic hybridisation",
+SPECT,Single photon emission computed tomography,
+SSPC,Single Space Power Chain,
+ss DNA,Single Stranded Dna,
+ssRNA,Single stranded RNA,
+S-A,Sinoatrial,
+SSj,Sjögren Syndrome,
+SS-B,Sjögren Syndrome Antibodies (Anti La),
+SS-A,Sjögren Syndrome Antibodies (Anti Ro),
+SNF,skilled nursing facility,
+SL,Slit Lamp,
+SCUF,Slow Continuous Ultrafiltration,
+SCLC,Small Cell Lung Cancer,
+SGA,Small For Gestational Age,
+SLL,Small lymphocytic lymphoma,
+SVN,Small volume Nebulizer,
+SLO,Smith Lemle Opitz Syndrome,
+SSE,Soapsuds Enema,Not to be used in writing medication orders
+SW,social worker,
+Na,Sodium,
+NaHCO3,Sodium Bicarbonate,
+NaCI,Sodium Chloride,
+NaF,Sodium Flouride,
+NaOCI,Sodium Hydrochloride,Not to be used in writing medication orders
+Soln,Solution,
+dB SPL,Sound pressure level,
+SG,Specific Gravity,
+SLI,Specific Language Impairment,
+SAT,speech awareness threshold,
+SLP,Speech Language Pathology,
+STSG,split-thickness skin graft,
+SROM,Spontaneous Rupture Of Membranes,
+SVD,Spontaneous Vaginal Delivery,
+SCC,squamous cell carcinoma,
+sq,Square,
+STEMI,ST elevation myocardial infarction,
+SAP,Stable angina pectoris,
+SSAW,Stainless Steel Arch Wire,
+SSC,Stainless Steel Crown,
+Staph.,Staphylococcus,
+STAT,"Statim (At Once, Immediately)",
+S/P,status post,
+S-pin,Steinmann Pin,
+SOMI,Sterno-Occipital Mental Immobiliser,
+SJS,Stevens Johnson Syndrome,
+SLR,Straight Leg Raising,
+Strept.,Streptococcus,
+SUI,Stress urinary incontinence,
+SV,Stroke Volume,
+SVI,Stroke Volume Index,
+SWS,Sturge Weber Syndrome,
+SBE,Subacute Bacterial Endocarditis,
+SCLE,subacute cutaneous lupus erythematosus,
+SSPE,Subacute sclerosing panencephalitis,
+SAH,Subarachnoid Hemorrhage,
+SC,Subcutaneous,
+SDH,Subdural Hematoma,
+SEMI,subendocardial myocardial infarction,
+SOAP,"subjective, objective, assessment, plan",
+SMR,submucous resection,
+SRF,Subretinal fluid,
+SRH,Subretinal hemorrhage,
+SCOT,Succinyl-CoenzymeA:3Oxoacid coenzymeA Transferase,
+SIDS,Sudden infant death syndrome,
+SO4,Sulfate,Not to be used in writing medication orders
+SSKI,Super Saturated solution of potassium iodide,
+RT-100,Superficial X-Ray 100 Kvp,
+SVC,Superior Vena Cava,
+Supp,Suppository,
+SPC,Suprapubic catheter,
+SVT,Supraventricular Tachycardia,
+SHx,Surgical history,
+SARPE,Surgically Assisted Palatal Rapid Expansion,
+SIRS,suspected inflammatory response syndrome,
+Susp,Suspension,
+sGC,Swanz-Ganz Catheter,
+STNR,Symmetrical tonic neck reflex,
+Sx,Symptoms,
+S & S,Symptoms And Signs,
+SIMV,Synchronised Intermittent Mandatory Ventilation,
+SIADH,Syndrome of inappropriate antidiuretic hormone,
+SVR,Systematic Vascular Resistance,
+SVRI,Systematic Vascular Resistance Index,
+SI units,Systeme Internationale Units,
+SLE,Systemic Lupus Erythematosus,
+Sys. Sc,Systemic Sclerosis,
+SEM,systolic ejection murmur,
+tbsp,Tablespoon (15ml),
+Tab,Tablet,
+FK-506,Tacrolimus,Not to be used in writing medication orders
+TMS,Tandem Mass Spectrometry for amino acids and acylcarnitine,
+tsp,Teaspoon (5 ml),
+TO,Telephone Order,
+T/Temp,Temperature,
+TPR,"Temperature, Pulse, Respiration",
+TPRBP,"Temperature, Pulse, Respiration, Blood Pressure",
+TAD,Temporary Anchorage Device,
+TMD,Temporo Mandibular Joint Disorder,
+TMJ,Temporomandibular Joint,
+TMJ-PDS,Temporomandibular Joint Pain Dysfunction Syndrome,
+VM-26,Teniposide,Not to be used in writing medication orders
+TVT T,Tension-free Vaginal tape,
+TSE,testicular self-examination,
+TESA,Testicular Sperm Aspiration,
+TESE,Testicular Sperm Extraction,
+Td,tetanus & diphtheria toxoids for adults,
+TT,Tetanus Toxoid,
+TdaP,"Tetanus Toxoid, Diptheria , Acelluar Pertussis  (adult)",
+T4,tetraiodothyronine; thyroxine; levothryroxine,Not to be used in writing medication orders
+TOF,Tetralogy Of Fallot,
+Tl,thallium,
+BRAT,"The BRAT diet: bananas, ric e, applesauc e, (dry) toast (helps digestion in some GI disorders)",
+CD4,T-helper cells,
+TAT,Thematic apperception test,
+Vit B1,Thiamine,
+6-TG,Thioguanine,Not to be used in writing medication orders
+T(1-12),"Thoracic Vertebra 1, 2, Etc",
+T1-T12,thoracic vertebrae,
+T-L,Thoracolumbar,
+TLSO,Thoracolumbosacral Orthosis,
+tid,Three Times Per Day (Ter In Die),
+TARS,Thrombocytopenia Absent Radii Syndrome,
+TTP,Thrombotic Thrombocytopenic Purpura,
+TBG,Thryoxin Binding Globulin,
+T-cells,Thymus-Dependent Lymphocytes,
+TFT,Thyroid Function Test,
+TPO,Thyroid Peroxidase,
+TSH,Thyroid Stimulating Hormone,
+TSI,Thyroid Stimulating Immunogloubin,
+TRH,"Thyrotropin releasing hormone, protirelin",
+TBA,Thyroxin Binding Albumin,
+TB pA,Thyroxin Binding Pre Albumin,
+Tib-Fib,Tibia and fibula,
+VT,Tidal Volume,
+X,Times,
+TINCT,Tincture,
+tPA/TPA,tissue plasminogen activator,
+TBD,to be determined,
+TKO,To keep open,
+TC,Tongue Crib,
+TLR,Tonic labyrinthine reflex,
+T&A,Tonsillectomy And Adenoidectomy,
+TNTM,too numerous to mention,
+TCRM,Tooth Coloured Restorative Material,
+top.,topically,
+TAH,total abdominal hysterectomy,
+TAPVR,total anomalous pulmonary venous return,
+TBI,total body irradiation,
+THA,Total Hip Arthroplasty,
+THR,Total Hip Replacement,
+TIBC,Total Iron-Binding Capacity,
+TKA,Total Knee Arthroplasty,
+TKR,total knee replacement,
+TLC,Total Lung Capacity,
+TLI,total lymphoid irradiation,
+TPN,Total Parenteral Nutrition,
+TSR,Total Shoulder Replacement,
+TSEBT,total skin electron beam therapy,
+TT&BND,Total Thyroidectomy & Bilateral Nodal Dissection,
+Tvol,Total Volume,
+TEN,toxic epidermal necrolysis,
+TA,toxin-antitoxin,
+TORCHS,"Toxoplasma, Rubella, Cytomegalovirus, Herpes, Syphilis",
+TEF,Tracheo-Esophageal-Fistula,
+TE,tracheosophageal,
+trach,tracheostomy,
+TRD,Tractional retinal detachment,
+TUU,Trans uretero ureterostomy,
+TBBx,Transbronchial Biopsy,
+TCD,transcranial doppler,
+TENS,Transcutaneous Electrical Nerve Stimulation,
+TCM,transcutaneous monitoring,
+TcO2,Transcutaneous Oxygen,
+TEE,transeophageal echocardiogram,
+TCO,Transfer Factor Carbon Monoxide,
+TGF,Transforming Growth Factor,
+Tx,Transfusion,
+TIA,Transient Ischemic Attack (Cerebral),
+TTNB,Transient Tachypnea Of Newborn,
+TCC,Transitional cell carcinoma,
+TIPS,Transjugular Intrahepatic Portosystemic Shunt,
+TOT,Trans-obturator Tape,
+TGV,Transposition Of Great Vessels,
+TGA,Transposition Of The Great Arteries,
+TRUS,Transrectal Ultrasound,
+TRUS & Bx,Transrectal ultrasound & Biopsy,
+TTE,Transthoracic echocardiogram,
+TUMA,transurethral microwave antenna,
+TUR,Transurethral Resection,
+TURBT,Transurethral resection of Bladder tumor,
+TURP,Transurethral Resection Prostate,
+TRAM,Transverse rectus abdominis myoc utaneous flap (TRAM flap),
+TRAP,"tremor, rigidity, akinesia or postural instablity bradykinesia, and postural instability",
+TPI,Treponema pallidum immobilization test for syphilis,
+TR,Tricuspid Regurgitation,
+TS,Tricuspid Stenosis,
+TV,Tricuspid Valve,
+TVRep,Tricuspid Valve Repair,
+TVR,Tricuspid Valve Replacement,
+TN,trigeminal nerve,
+TG,Triglycerides,
+T3,triiodothyronine,
+TMP,Trimethoprim,Not to be used in writing medication orders
+TMP/SMX,Trimethoprim Sulfamethoxazole,Not to be used in writing medication orders
+TIT,Trimming of Inferior Turbinates,
+TnI,Troponin I,
+TnT,Troponin T,
+TF,Tube Feeding,
+TB,tuberculosis,
+TLS,tumor lysis syndrome,
+TNF,tumor necrosis factor,
+TNF-α,tumor necrosis factor alpha,
+TNF-I,tumor necrosis factor inhibitor,
+TNM,"Tumor,Node,Metastasis Staging",
+TM,tympanic membrane,
+T1DM,Type I Diabetes Mellitus,
+T2DM,Type II Diabetes Mellitus,
+UC,ulcerative colitis,
+UF,ultra filtration,
+UFP,ultra filtration pressure,
+"US, USG",Ultra-Sound,
+UVAL,ultraviolet argon laser,
+UVB,ultraviolet B phototherapy,
+UVL,ultraviolet light,
+UAC,umbilical artery catheter,
+UVC,umbilical venous catheter,
+UBC,Unicameral Bone Cyst,
+UCCP,Unilateral Cleft Lip Palate,
+UPS,Uninterruptible Power Supply,
+UTD,up to date,
+UE,Upper Extremity,
+UGI,Upper Gastrointestinal,
+ULQ,Upper Lefy Quadrants,
+UMN,Upper Motor Neuron,
+URI/ URTI,Upper Respiratory Tract Infection,
+URQ,Upper Right Quadrant,
+UTUC,Upper tract urothelial cancer,
+UBT,urea breath test,
+UCD,Urea Cycle Defect/ urea cycle disorder,
+UPJ,ureteropelvic junc tion (see pyeloplasty),
+UPJO,Ureteropelvic junction obstruction,
+UVJ,ureterovesical junction,
+UA,Urinalysis,
+UCG,Urinary Chorionic Gonadotrophin,
+UOP,Urinary Output,
+UTI,Urinary Tract Infection,
+UGCMS,Urine Gas Chromatography and Mass Spectrometry,
+UPE,Urine Protein Electrophoresis,
+UDS,Urodynamic study,
+UPPP,Uvula Palatopharyngoplasty,
+VAVD,vacuum assisted venous drainage,
+vag,Vaginal,
+VBAC,Vaginal Birth After Caesarean,
+V&P,vagotomy and pyloroplasty,
+VPA,Valproic acid,Not to be used in writing medication orders
+VRE,Vancomycin-resistant enterococcus,
+VRSA,Vancomycin-resistant staphylococcus aureus,
+VMA,Vanillylmandelic Acid,
+VNPI,VanNuys prognostic scoring index (ductal carcinoma),
+VPAP,Variable positive airway pressure,
+V-1800,Varian Clinac-1800 Linear Accelerator,
+V-2300 C/D,Varian Clinac-2300 C/D Linear Accelerator,
+V-600C,Varian Clinac-600C Linear Accelerator,
+Ximatron,Varian Ximatron Cx Simulator,
+VAR,Varicella Virus Vaccine,Not to be used in writing medication orders
+VZIG,Varicella Zoster Immunoglobulin,
+VZV,Varicella Zoster Virus,
+VIP,Vasoactive-Intestinal Peptide,
+VPI,Velopharyngeal Incompetence,
+VDRL,Venereal Diseases Research Laboratory (old test for syphilis),
+VEE,Venezuelan equine encephalitis,
+VOD,veno-occlusive disease,
+VBG,Venous Blood Gas,
+VTE,Venous Thromboembolism,
+V/Q,Ventilation/Perfusion scan,
+Vent,Ventilator,
+VAP,Ventilator Associated Pneumonia,
+VDRF,Ventilator dependent respiratory failure,
+VEB,Ventric ular ectopic beat,
+VSR,Ventric ular septal rupture - myocardial rupture,
+VAD,Ventricular Assist Device/ Venous Access Device,
+VF,Ventricular Fibrillation,
+VSD,Ventricular Septal Defect,
+Vtach,Ventricular Tachycardia,
+V-P,ventriculoperitoneal,
+VO,Verbal order,
+VKC,vernal keratoconjunctivitis,
+vs.,versus,
+VACTREL,"Vertebral defects, anal atresia, cardiac defects, tracheo-esophageal fistula, renal anomalies, and limb abnormalities",
+VATER,"Vertebral defects, anal atresia, tracheo-esophageal fistula, and renal anomalies.",
+VB,Vertebrobasilar,
+Vx,Vertex,
+VDO,Vertical Dimension of Occlusion,
+VMD,Vertical Maxillary Excess,
+VLCAD,Very long chain Acyl CoA dehydrogenase,
+VLCFA,Very Long Chain Fatty Acids,
+VLBW,Very Low Birth Rate,
+VLDL,Very Low Density Lipoprotein,
+VUJ,Vesico ureteric junction,
+VUR,Vesico ureteric reflux,
+VVF,Vesico-vaginal fistula,
+VATS,video assisted thoracoscopic surgery,
+VFS,Video Fluoroscopy Study,
+VFSS,videoflouroscopic swallow study,
+VBL,Vinblastine,Not to be used in writing medication orders
+VAIA,Vincristin/Actinomycin D/ Ifosfamide/Adriamycin,Not to be used in writing medication orders
+VCR,vincristine,Not to be used in writing medication orders
+VI,Vincristine/Irinotecan,Not to be used in writing medication orders
+VA,Visual Acuity,
+VEP,Visual Evoked Potentials,
+VER,visual evoked response,
+VC,Vital Capacity,
+VS,Vital Signs,
+VSS,Vital Signs Stable,
+Vit,Vitamin,
+VH,vitreous hemorrhage,
+VCD,Vocal Cord Dysfunction,
+VCUG,Voiding Cysto-Urethrogram,
+Vol,Volume,
+VCV,Volume Control Ventilation,
+Vol %,Volume Percent,
+VHL,Von Hippel-Lindau Disease,
+WAP,Wandering atrial pac emaker (see multifocal atrial tachycardia),
+H2O,Water,
+WAIS,Wechsler Adult Intelligence Scale,
+WG,Wegener's granulomatosis,
+wt,Weight,
+WBAT,Weight Bearing As Tolerated,
+WDWN,Well Developed And Well Nourished,
+WEE,Western equine encephalitis virus,
+W/C,Wheelchair,
+WBC,White Blood Cells/White Blood Count,
+WES,Whole exome sequencing,
+WGS,Whole genome sequencing,
+WAS,Wiskott-Aldrich Syndrome,
+WFL,Within functional limits,
+WNL,Within Normal Limits,
+w/o,Without,
+WPW,Wolff-Parkinson-White syndrome,
+XLP,X-Linked Lymphoproliferative Disease,
+Y-BOCS,Yale-Brown Obsessive Compulsive Scale,
+yrs,years,
+ddC,Zalcitabine,Not to be used in writing medication orders
+Zn,Zinc,Not to be used in writing medication orders
+ZnO2,Zinc Oxide,Not to be used in writing medication orders
+ZIFT,Zygote Intrafallopian Transfer,

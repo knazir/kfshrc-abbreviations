@@ -19,7 +19,7 @@ class AbbreviationList extends Component {
 
   async loadAbbreviationList() {
     this.loading = true;
-    const list = await Api.list();
+    const list = await Api.forbidden();
     list.forEach(item => item.selected = false);
     const originalList = list.slice();
     this.setState({ list, originalList }, () => this.loading = false);
@@ -37,7 +37,7 @@ class AbbreviationList extends Component {
   }
 
   get columnNames() {
-    let columns = ["Abbreviation", "Description", "Comments"];
+    let columns = ["Abbreviation", "Intended Meaning", "Comments", "Correct Usage"];
     if (this.props.state.loggedIn) columns = [this.createSelectAllCheckbox()].concat(columns);
     return columns;
   }
@@ -72,8 +72,9 @@ class AbbreviationList extends Component {
         <tr key={`${item.abbreviation}-${index}`}>
           {this.props.state.loggedIn && <td>{this.createSelectCheckbox(item)}</td>}
           <td>{item.abbreviation}</td>
-          <td>{item.description}</td>
+          <td>{item.intendedMeaning}</td>
           <td>{item.comments}</td>
+          <td>{item.correctUsage}</td>
         </tr>
       );
     });
@@ -98,13 +99,22 @@ class AbbreviationList extends Component {
   }
 
   createUnapprovedMessage() {
-    return <h4 className="unapproved-msg">This abbreviation is not approved by KFSH&RC</h4>
+    return <h4 className="unapproved-msg">This abbreviation is not in the <strong>DO NOT USE</strong> list</h4>
+  }
+
+  createWarning() {
+    return (
+      <div className="alert alert-danger" role="alert">
+        <strong>DO NOT USE</strong> any of these abbreviations
+      </div>
+    );
   }
 
   render() {
     return (
       <TabView view={this}>
         <div className="abbreviation-list">
+          {this.createWarning()}
           <ListToolbar selection={this.state.selection} filterResults={this.filterResults.bind(this)}/>
           {this.createTable()}
         </div>

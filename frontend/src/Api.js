@@ -23,7 +23,11 @@ class Api {
   }
 
   static list() {
-    return Api._get("/list");
+    return Api._get("/abbreviations");
+  }
+
+  static forbidden() {
+    return Api._get("/forbidden");
   }
 }
 

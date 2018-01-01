@@ -104,10 +104,10 @@ class TabBar extends Component {
     )
   }
 
-  createNavItem(description, { component, path }) {
+  createNavItem(description, { component, path }, extraClassName) {
     const { view } = this.props;
     const active = view.constructor === component || view.constructor === component.Component;
-    const className = `nav-link ${active ? "active" : ""}`.trim();
+    const className = `nav-link ${active ? "active" : ""} ${extraClassName || ""}`.trim();
     return (
       <li className="nav-item">
         <a className={className} href={path}>{description}</a>
@@ -119,7 +119,8 @@ class TabBar extends Component {
     const className = `nav nav-tabs ${this.props.state.loggedIn ? "logged-in" : ""}`.trim();
     return (
       <ul className={className}>
-        {this.createNavItem("Abbreviations", views.list)}
+        {this.createNavItem("Approved Abbreviations", views.list, "approved")}
+        {this.createNavItem("DO NOT USE", views.forbidden, "forbidden")}
         {this.props.state.loggedIn && this.createNavItem("History", views.history)}
         {this.createNavItem("About", views.about)}
       </ul>

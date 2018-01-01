@@ -33,6 +33,7 @@ const ObjectID = require("mongodb").ObjectID;
 let db = null;
 let users = null;
 let abbreviations = null;
+let forbidden = null;
 
 /* * * * * * * * *
  * Start Server  *
@@ -45,6 +46,7 @@ async function main() {
   db = await MongoClient.connect(process.env.MONGODB_URI || MONGO_URL);
   users = db.collection("users");
   abbreviations = db.collection("abbreviations");
+  forbidden = db.collection("forbidden");
 
   // The "process.env.PORT" is needed to work with Heroku.
   const port = process.env.PORT || 3001;
@@ -64,10 +66,26 @@ async function authorized(req) {
   return req.userInfo && username === req.userInfo.email;
 }
 
-function caseInsensitive(phrase) {
-  return {
-    $regex: new RegExp(phrase, "i")
-  };
+async function listAbbreviationsFromCollection(collection, req, res) {
+  let list = await collection.find({}).toArray();
+  list = list.sort((a, b) => a.abbreviation.localeCompare(b.abbreviation));
+  res.json(list);
+}
+
+async function addAbbreviationToCollection(collection, obj, res) {
+  const { abbreviation } = obj;
+  const existingAbbreviation = abbreviations.findOne({ abbreviation });
+  if (existingAbbreviation) return res.status(400).json({ response: `Abbreviation ${abbreviation} already exists.` });
+  await abbreviations.insertOne(obj);
+  res.status(200).json({ response: "Success" });
+}
+
+async function deleteAbbreviationFromCollection(collection, req, res) {
+  const { id, abbreviation } = req.body;
+  const existingAbbreviation = abbreviations.findOne({ id });
+  if (!existingAbbreviation) return res.status(200).json({ response: "Success" });
+  await collection.deleteOne({ id });
+  res.status(400).json({ response: `Abbreviation ${abbreviation} does not exist.` });
 }
 
 /* * * * * * * *
@@ -82,17 +100,50 @@ router.post("/users/signin", async function(req, res) {
   const username = req.body.username.toLowerCase();
   const password = req.body.password;
   let user = await users.findOne({ username, password });
-  if (!user) res.status(400).json({response: "Invalid login"});
+  if (!user) res.status(400).json({ response: "Invalid login" });
   else res.json(user);
 });
 
 /*
  * Get list of abbreviations
  */
-router.get("/list", async function(req, res) {
-  let list = await abbreviations.find({}).toArray();
-  list = list.sort((a, b) => {
-    return a.abbreviation.localeCompare(b.abbreviation);
-  });
-  res.json(list);
+router.get("/abbreviations", (req, res) => {
+  listAbbreviationsFromCollection(abbreviations, req, res);
+});
+
+/*
+ * Add an abbreviation
+ */
+router.post("/abbreviations/add", (req, res) => {
+  const { abbreviation, description, notes } = req.body;
+  addAbbreviationToCollection(abbreviations, { abbreviation, description, notes }, res);
+});
+
+/*
+ * Delete an abbreviation
+ */
+router.post("/abbreviations/delete", (req, res) => {
+  deleteAbbreviationFromCollection(abbreviations, req, res);
+});
+
+/*
+ * Get list of forbidden abbreviations
+ */
+router.get("/forbidden", (req, res) => {
+  listAbbreviationsFromCollection(forbidden, req, res);
+});
+
+/*
+ * Add a forbidden abbreviation
+ */
+router.post("/forbidden/add", (req, res) => {
+  const { abbreviation, intendedMeaning, comments, correctUsage } = req.body;
+  addAbbreviationToCollection(forbidden, { abbreviation, intendedMeaning, comments, correctUsage }, res);
+});
+
+/*
+ * Delete a forbidden abbreviation
+ */
+router.post("/abbreviations/delete", (req, res) => {
+  deleteAbbreviationFromCollection(forbidden, req, res);
 });

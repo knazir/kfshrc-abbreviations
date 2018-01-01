@@ -1,0 +1,21 @@
+abbreviation,intendedMeaning,comments,correctUsage
+.X mg,0.X mg,Decimal point may not be seen, resulting in 10 fold error.,Write “0” before the decimal point.
+/,“per” or separate doses,"Mistaken as the number 1 (e.g., “25 unit/10 units” misread as “25 unit and “110” units)","Write “per”, 10 mMol per Liter"
+">, <",greater than or less than,Mistaken as opposite of intended; mistakenly use incorrect symbol; “<10 mistaken as 40”,Write “greater than” or “less than”
+Hs,bedtime,Mistaken as “half-strength”,Write “bedtime”
+IU,international unit,Mistaken as IV (intravenous) or 10 (ten),Write “international unit”
+MgSO4,Magnesium sulfate,Mistaken as morphine sulfate,Write "magnesium sulfate"
+MS,morphine sulfate,Mistaken as magnesium sulfate,Write “morphine sulfate”
+MSO4,morphine sulfate,Mistaken as magnesium sulfate,Write “morphine sulfate”
+q 6PM,nightly at 6PM,Mistaken as every 6 hours,Write “nightly at 6PM” (or needed time)
+Q.D. / q.d,every day,the “q” is misunderstood as an “i”,Write “every day”
+Q.O.D. / q.o.d,every other day,"Mistaken as “q.d.” (daily), or “q.i.d.” (four times daily) if the “o” ispoorly written",Write “every other day”
+Qhs,at every bedtime,,Write “at every bedtime”
+Subq,subcutaneous,"the ""q"" may mistaken as""every""",Use “SC” or “subcutaneously”
+S.Q.,,Mistaken as “5 every”,Use “SC” or “subcutaneously”
+Ss,"one half, semis",Mistaken as “55”,Write “one half” or “semis”
+U/ u,unit,"Mistaken as the number 0 or 4, causing a 10-fold overdose or greater (eg, 4U seen as “40” or 4u seen as “44”)",Write “unit”
+X.0 mg,X mg,"Decimal point is often missed, resulting in 10 fold error.",Never write “0” by itself after a decimal point.
+X3d,for three days,Mistaken as “3 doses”,Write x3 “days” (or the needed length of therapy)
+"Large doses without properly placed commas (e.g., 100000 units;","100,000 units 1,000,000 units","100000 has been mistaken as 10,000 or 1,000,000; 1000000 has been mistaken as 100,000.","Use commas for dosing units at or above 1,000, or use words such as 100 ""thousand"" or 1 ""million"" to improve readability"
+cc,Cubic Centimeter,"Mistaken as ""u"" unit","Use ""mL"" or don't use it in medication order"

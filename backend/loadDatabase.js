@@ -5,15 +5,24 @@ const csvLength = 1973;
 /* * * * * * * * * * * * * * * * * * * * * * *
  * Creates Database and Loads Initial Items  *
  * * * * * * * * * * * * * * * * * * * * * * */
-async function loadAbbreviations(users, abbreviations) {
+async function loadAbbreviations(users, abbreviations, forbidden) {
   await users.insertOne({ username: "kashif", password: "tomato" });
   const list = [];
   csv().fromFile("res/abbreviations.csv")
-    .on("json", async obj => list.push(obj))
+    .on("json", obj => list.push(obj))
     .on("done", async err => {
       await Promise.all(list.map(obj => abbreviations.insertOne(obj)));
       process.stdout.write("Done.\n");
-      process.exit();
+
+      process.stdout.write("Loading forbidden abbreviations from CSV... ");
+      const forbiddenList = [];
+      csv().fromFile("res/forbidden.csv")
+        .on("json", obj => forbiddenList.push(obj))
+        .on("done", async err => {
+          await Promise.all(forbiddenList.map(obj => forbidden.insertOne(obj)));
+          process.stdout.write("Done.\n");
+          process.exit();
+        });
     });
 }
 
@@ -42,11 +51,16 @@ async function main() {
   await db.createCollection("abbreviations");
   process.stdout.write("Done.\n");
 
+  process.stdout.write("Creating Forbidden Abbreviations collection... ");
+  await db.createCollection("forbidden");
+  process.stdout.write("Done.\n");
+
   const users = db.collection("users");
   const abbreviations = db.collection("abbreviations");
+  const forbidden = db.collection("forbidden");
 
   process.stdout.write("Loading abbreviations from CSV... ");
-  await loadAbbreviations(users, abbreviations);
+  await loadAbbreviations(users, abbreviations, forbidden);
 }
 
 main();
